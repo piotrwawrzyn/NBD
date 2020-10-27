@@ -4,7 +4,7 @@ import scala.util.control.Breaks.{break, breakable}
 
 object Main {
   def main(args: Array[String]) = {
-    // 1.	Stwórz 7 elementową listę zawierającą nazwy dni tygodnia. Napisz funkcję tworzącą w oparciu o nią stringa z elementami oddzielonymi przecinkami korzystając z:
+    // 1. Stwórz 7 elementową listę zawierającą nazwy dni tygodnia. Napisz funkcję tworzącą w oparciu o nią stringa z elementami oddzielonymi przecinkami korzystając z:
     val daysOfTheWeek = List("Poniedziałek", "Wtorek", "Środa", "Czwartek", "Piątek", "Sobota", "Niedziela")
 
     // a) Pętli for
@@ -15,32 +15,32 @@ object Main {
     println("> 1 b)")
     println(task1b(daysOfTheWeek))
 
-    // c)	Pętli while
+    // c) Pętli while
     println("> 1 c)")
     println(task1c(daysOfTheWeek))
 
     // 2. Dla listy z ćwiczenia 1 napisz funkcję tworzącą w oparciu o nią stringa z elementami oddzielonymi przecinkami korzystając z:
-    // a)	Funkcji rekurencyjnej
+    // a) Funkcji rekurencyjnej
     println("> 2 a)")
     println(task2a(daysOfTheWeek))
     // b) Funkcji rekurencyjnej wypisując elementy listy od końca
     println("> 2 b)")
     println(task2b(daysOfTheWeek))
 
-    // 3.	Stwórz funkcję korzystającą z rekurencji ogonowej do zwrócenia oddzielonego przecinkami stringa zawierającego elementy listy z ćwiczenia 1
+    // 3. Stwórz funkcję korzystającą z rekurencji ogonowej do zwrócenia oddzielonego przecinkami stringa zawierającego elementy listy z ćwiczenia 1
     println("> 3")
     println(task3(daysOfTheWeek))
 
-    // 4.	Dla listy z ćwiczenia 1 napisz funkcję tworzącą w oparciu o nią stringa z elementami oddzielonymi przecinkami korzystając z:
-    // a)	Metody foldl
+    // 4. Dla listy z ćwiczenia 1 napisz funkcję tworzącą w oparciu o nią stringa z elementami oddzielonymi przecinkami korzystając z:
+    // a) Metody foldl
     println("> 4 a)")
     println(task4a(daysOfTheWeek))
 
-    // b)	Metody foldr
+    // b) Metody foldr
     println("> 4 b)")
     println(task4b(daysOfTheWeek))
 
-    // c)	Metody foldl wypisując tylko dni z nazwami zaczynającymi się na „P”
+    // c) Metody foldl wypisując tylko dni z nazwami zaczynającymi się na „P”
     println("> 4 c)")
     println(task4c(daysOfTheWeek))
 
@@ -69,7 +69,7 @@ object Main {
     println(task8(intList))
 
 
-    // 9)	Zdefiniuj funkcję, przyjmującą listę liczb całkowitych i zwracającą wygenerowaną na jej podstawie listę, w której wszystkie liczby zostały zwiększone o 1. Wykorzystaj mechanizm mapowania kolekcji.
+    // 9) Zdefiniuj funkcję, przyjmującą listę liczb całkowitych i zwracającą wygenerowaną na jej podstawie listę, w której wszystkie liczby zostały zwiększone o 1. Wykorzystaj mechanizm mapowania kolekcji.
     println("> 9")
     println(task9(intList))
 
