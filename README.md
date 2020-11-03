@@ -3,17 +3,17 @@
 ## NBD Ćwiczenia 1 - Scala
 
 1. Stwórz 7 elementową listę zawierającą nazwy dni tygodnia. Napisz funkcję tworzącą w oparciu o nią stringa z elementami oddzielonymi przecinkami korzystając z:
-   .._ Pętli for
-   .._ Pętli for wypisując tylko dni z nazwami zaczynającymi się na „P”
-   ..\* Pętli while
+   - Pętli for
+   - Pętli for wypisując tylko dni z nazwami zaczynającymi się na „P”
+   - Pętli while
 2. Dla listy z ćwiczenia 1 napisz funkcję tworzącą w oparciu o nią stringa z elementami oddzielonymi przecinkami korzystając z:
-   .._ Funkcji rekurencyjnej
-   .._ Funkcji rekurencyjnej wypisując elementy listy od końca
+   - Funkcji rekurencyjnej
+   - Funkcji rekurencyjnej wypisując elementy listy od końca
 3. Stwórz funkcję korzystającą z rekurencji ogonowej do zwrócenia oddzielonego przecinkami stringa zawierającego elementy listy z ćwiczenia 1
 4. Dla listy z ćwiczenia 1 napisz funkcję tworzącą w oparciu o nią stringa z elementami oddzielonymi przecinkami korzystając z:
-   .._ Metody foldl
-   .._ Metody foldr
-   ..\* Metody foldl wypisując tylko dni z nazwami zaczynającymi się na „P”
+   - Metody foldl
+   - Metody foldr
+   - Metody foldl wypisując tylko dni z nazwami zaczynającymi się na „P”
 5. Stwórz mapę z nazwami produktów i cenami. Na jej podstawie wygeneruj drugą, z 10% obniżką cen. Wykorzystaj mechanizm mapowania kolekcji.
 6. Zdefiniuj funkcję przyjmującą krotkę z 3 wartościami różnych typów i wypisującą je
 7. Zaprezentuj działanie Option na dowolnym przykładzie (np. mapy, w której wyszukujemy wartości po kluczu)
