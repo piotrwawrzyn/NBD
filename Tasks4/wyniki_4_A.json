@@ -1,0 +1,1208 @@
+[
+  {
+          "_id" : "Slovenia",
+          "avarageBmi" : 25.041680484394,
+          "highestBmi" : 32.66109875399449,
+          "lowestBmi" : 17.370385779694157
+  },
+  {
+          "_id" : "Kyrgyzstan",
+          "avarageBmi" : 23.79456317353873,
+          "highestBmi" : 34.05576978971841,
+          "lowestBmi" : 16.846474930530864
+  },
+  {
+          "_id" : "Micronesia",
+          "avarageBmi" : 23.307344877130703,
+          "highestBmi" : 25.24886656617766,
+          "lowestBmi" : 20.483583148077006
+  },
+  {
+          "_id" : "Cape Verde",
+          "avarageBmi" : 25.33466174988547,
+          "highestBmi" : 35.04527266278727,
+          "lowestBmi" : 19.20724222151505
+  },
+  {
+          "_id" : "Bahamas",
+          "avarageBmi" : 24.994816322414778,
+          "highestBmi" : 26.596494551398333,
+          "lowestBmi" : 22.243665360172294
+  },
+  {
+          "_id" : "Nicaragua",
+          "avarageBmi" : 23.962942198175192,
+          "highestBmi" : 30.0372110793386,
+          "lowestBmi" : 19.7754882642013
+  },
+  {
+          "_id" : "Samoa",
+          "avarageBmi" : 20.54488200453268,
+          "highestBmi" : 20.54488200453268,
+          "lowestBmi" : 20.54488200453268
+  },
+  {
+          "_id" : "Burundi",
+          "avarageBmi" : 25.64831294896216,
+          "highestBmi" : 28.50245013159454,
+          "lowestBmi" : 23.41760581267604
+  },
+  {
+          "_id" : "El Salvador",
+          "avarageBmi" : 25.348361001442797,
+          "highestBmi" : 33.56299576484531,
+          "lowestBmi" : 21.92582816065902
+  },
+  {
+          "_id" : "North Korea",
+          "avarageBmi" : 26.205146023322587,
+          "highestBmi" : 30.614290364070985,
+          "lowestBmi" : 20.924212172010197
+  },
+  {
+          "_id" : "Haiti",
+          "avarageBmi" : 25.435603301304152,
+          "highestBmi" : 34.706505929936306,
+          "lowestBmi" : 18.63873039318409
+  },
+  {
+          "_id" : "Estonia",
+          "avarageBmi" : 25.542136169318567,
+          "highestBmi" : 28.68360155605993,
+          "lowestBmi" : 18.560878620789442
+  },
+  {
+          "_id" : "Russia",
+          "avarageBmi" : 25.27150600335293,
+          "highestBmi" : 39.88445766499928,
+          "lowestBmi" : 15.959050973980357
+  },
+  {
+          "_id" : "Croatia",
+          "avarageBmi" : 24.859825049169952,
+          "highestBmi" : 38.54454850434303,
+          "lowestBmi" : 18.791459338166646
+  },
+  {
+          "_id" : "Argentina",
+          "avarageBmi" : 25.62524557961224,
+          "highestBmi" : 34.13224063185605,
+          "lowestBmi" : 17.58733455568425
+  },
+  {
+          "_id" : "Senegal",
+          "avarageBmi" : 23.415570863855162,
+          "highestBmi" : 26.591448446940536,
+          "lowestBmi" : 21.10083404913989
+  },
+  {
+          "_id" : "Moldova",
+          "avarageBmi" : 25.57295819429361,
+          "highestBmi" : 32.56715420989366,
+          "lowestBmi" : 19.688381123290277
+  },
+  {
+          "_id" : "Saint Lucia",
+          "avarageBmi" : 23.007900513203566,
+          "highestBmi" : 27.57036153167093,
+          "lowestBmi" : 20.263359356035604
+  },
+  {
+          "_id" : "Hungary",
+          "avarageBmi" : 26.31407363405381,
+          "highestBmi" : 32.69237888437416,
+          "lowestBmi" : 22.357117184320284
+  },
+  {
+          "_id" : "Chad",
+          "avarageBmi" : 25.90576302097001,
+          "highestBmi" : 32.14867661954464,
+          "lowestBmi" : 19.379712122869797
+  },
+  {
+          "_id" : "Greenland",
+          "avarageBmi" : 25.87231726224435,
+          "highestBmi" : 25.87231726224435,
+          "lowestBmi" : 25.87231726224435
+  },
+  {
+          "_id" : "Aland Islands",
+          "avarageBmi" : 28.16261648965891,
+          "highestBmi" : 33.92911214898956,
+          "lowestBmi" : 22.422508995430604
+  },
+  {
+          "_id" : "Wallis and Futuna",
+          "avarageBmi" : 26.38253925838278,
+          "highestBmi" : 28.43117093855067,
+          "lowestBmi" : 24.33390757821489
+  },
+  {
+          "_id" : "Monaco",
+          "avarageBmi" : 28.9279758282314,
+          "highestBmi" : 28.9279758282314,
+          "lowestBmi" : 28.9279758282314
+  },
+  {
+          "_id" : "Uruguay",
+          "avarageBmi" : 25.32476196226835,
+          "highestBmi" : 34.361426322308105,
+          "lowestBmi" : 20.368800960879323
+  },
+  {
+          "_id" : "Morocco",
+          "avarageBmi" : 25.87499924181595,
+          "highestBmi" : 32.90604019213787,
+          "lowestBmi" : 20.182304322324796
+  },
+  {
+          "_id" : "Australia",
+          "avarageBmi" : 25.195047158310075,
+          "highestBmi" : 29.824555993432554,
+          "lowestBmi" : 20.65310909810227
+  },
+  {
+          "_id" : "Macao",
+          "avarageBmi" : 23.98847768982694,
+          "highestBmi" : 23.98847768982694,
+          "lowestBmi" : 23.98847768982694
+  },
+  {
+          "_id" : "Tonga",
+          "avarageBmi" : 23.8293086776095,
+          "highestBmi" : 23.8293086776095,
+          "lowestBmi" : 23.8293086776095
+  },
+  {
+          "_id" : "Finland",
+          "avarageBmi" : 25.62844713976524,
+          "highestBmi" : 36.88879211052598,
+          "lowestBmi" : 18.313044445355132
+  },
+  {
+          "_id" : "Puerto Rico",
+          "avarageBmi" : 25.262349688052414,
+          "highestBmi" : 27.28341528253193,
+          "lowestBmi" : 22.624807178343218
+  },
+  {
+          "_id" : "Poland",
+          "avarageBmi" : 25.22836297321035,
+          "highestBmi" : 36.71954280831063,
+          "lowestBmi" : 16.79139666621858
+  },
+  {
+          "_id" : "Honduras",
+          "avarageBmi" : 25.48034274333803,
+          "highestBmi" : 35.22066445474855,
+          "lowestBmi" : 18.483295476526518
+  },
+  {
+          "_id" : "Ivory Coast",
+          "avarageBmi" : 26.739162218304372,
+          "highestBmi" : 35.26565858224913,
+          "lowestBmi" : 20.497202679469442
+  },
+  {
+          "_id" : "Belarus",
+          "avarageBmi" : 25.469679075687,
+          "highestBmi" : 33.93864732017481,
+          "lowestBmi" : 17.86291107456045
+  },
+  {
+          "_id" : "Afghanistan",
+          "avarageBmi" : 24.844570703022438,
+          "highestBmi" : 31.680724277814612,
+          "lowestBmi" : 17.09902396818706
+  },
+  {
+          "_id" : "Lesotho",
+          "avarageBmi" : 25.35989698056186,
+          "highestBmi" : 30.164460328890495,
+          "lowestBmi" : 19.804653958825412
+  },
+  {
+          "_id" : "Somalia",
+          "avarageBmi" : 29.953705951906365,
+          "highestBmi" : 29.953705951906365,
+          "lowestBmi" : 29.953705951906365
+  },
+  {
+          "_id" : "Northern Mariana Islands",
+          "avarageBmi" : 25.912320610983855,
+          "highestBmi" : 25.912320610983855,
+          "lowestBmi" : 25.912320610983855
+  },
+  {
+          "_id" : "Brunei",
+          "avarageBmi" : 25.02697259105827,
+          "highestBmi" : 25.02697259105827,
+          "lowestBmi" : 25.02697259105827
+  },
+  {
+          "_id" : "Libya",
+          "avarageBmi" : 27.27409420047267,
+          "highestBmi" : 35.14959498858504,
+          "lowestBmi" : 21.42742372829579
+  },
+  {
+          "_id" : "Albania",
+          "avarageBmi" : 24.708938287604877,
+          "highestBmi" : 31.98582559382973,
+          "lowestBmi" : 18.995343497963386
+  },
+  {
+          "_id" : "Mauritius",
+          "avarageBmi" : 25.493607821171015,
+          "highestBmi" : 38.86342108446306,
+          "lowestBmi" : 19.225308641975307
+  },
+  {
+          "_id" : "Canada",
+          "avarageBmi" : 25.357263741380066,
+          "highestBmi" : 33.61303753837222,
+          "lowestBmi" : 16.408314613251758
+  },
+  {
+          "_id" : "Mexico",
+          "avarageBmi" : 25.384445588551422,
+          "highestBmi" : 36.2708751496718,
+          "lowestBmi" : 17.298446794148454
+  },
+  {
+          "_id" : "Jamaica",
+          "avarageBmi" : 24.93149892025034,
+          "highestBmi" : 28.975717835121532,
+          "lowestBmi" : 22.275369146558596
+  },
+  {
+          "_id" : "Marshall Islands",
+          "avarageBmi" : 24.4362224388107,
+          "highestBmi" : 26.899880561973735,
+          "lowestBmi" : 22.403515045781823
+  },
+  {
+          "_id" : "Uzbekistan",
+          "avarageBmi" : 25.895086720586505,
+          "highestBmi" : 32.30460851219658,
+          "lowestBmi" : 19.78219777101565
+  },
+  {
+          "_id" : "Iran",
+          "avarageBmi" : 25.852744467464767,
+          "highestBmi" : 37.98020856315509,
+          "lowestBmi" : 18.237996217377763
+  },
+  {
+          "_id" : "Tanzania",
+          "avarageBmi" : 25.781567064394096,
+          "highestBmi" : 34.9992957297564,
+          "lowestBmi" : 17.23592052068185
+  },
+  {
+          "_id" : "Papua New Guinea",
+          "avarageBmi" : 24.213264087002067,
+          "highestBmi" : 26.903589650913545,
+          "lowestBmi" : 19.859417039821555
+  },
+  {
+          "_id" : "Indonesia",
+          "avarageBmi" : 25.386897562233706,
+          "highestBmi" : 45.2254888114332,
+          "lowestBmi" : 14.752916025545577
+  },
+  {
+          "_id" : "China",
+          "avarageBmi" : 25.504672102069947,
+          "highestBmi" : 42.36228470295768,
+          "lowestBmi" : 15.457567797405272
+  },
+  {
+          "_id" : "Netherlands",
+          "avarageBmi" : 26.02467655953886,
+          "highestBmi" : 34.91379070141339,
+          "lowestBmi" : 19.37514915181097
+  },
+  {
+          "_id" : "Tajikistan",
+          "avarageBmi" : 24.961843320223544,
+          "highestBmi" : 31.132650605821127,
+          "lowestBmi" : 19.990278828313503
+  },
+  {
+          "_id" : "Ghana",
+          "avarageBmi" : 25.211449181938868,
+          "highestBmi" : 32.50433727787583,
+          "lowestBmi" : 19.513811851275083
+  },
+  {
+          "_id" : "Botswana",
+          "avarageBmi" : 24.080448426345264,
+          "highestBmi" : 27.18178743838766,
+          "lowestBmi" : 17.209620064111167
+  },
+  {
+          "_id" : "Swaziland",
+          "avarageBmi" : 20.902625563889615,
+          "highestBmi" : 20.902625563889615,
+          "lowestBmi" : 20.902625563889615
+  },
+  {
+          "_id" : "Saint Kitts and Nevis",
+          "avarageBmi" : 27.801128935139957,
+          "highestBmi" : 30.06261206327215,
+          "lowestBmi" : 25.181373219019413
+  },
+  {
+          "_id" : "Cambodia",
+          "avarageBmi" : 25.98009869778392,
+          "highestBmi" : 33.32850035102713,
+          "lowestBmi" : 17.556863214141693
+  },
+  {
+          "_id" : "Azerbaijan",
+          "avarageBmi" : 25.953521178074688,
+          "highestBmi" : 36.93348217200575,
+          "lowestBmi" : 18.770569815679924
+  },
+  {
+          "_id" : "Sudan",
+          "avarageBmi" : 24.951753358198896,
+          "highestBmi" : 26.388338263210727,
+          "lowestBmi" : 22.77184895818426
+  },
+  {
+          "_id" : "Mozambique",
+          "avarageBmi" : 25.56294360884168,
+          "highestBmi" : 29.44789535394624,
+          "lowestBmi" : 22.800359685650264
+  },
+  {
+          "_id" : "Gambia",
+          "avarageBmi" : 23.773405222453228,
+          "highestBmi" : 29.041518380755527,
+          "lowestBmi" : 17.84046677774891
+  },
+  {
+          "_id" : "Bhutan",
+          "avarageBmi" : 24.056604894582005,
+          "highestBmi" : 31.35770002294631,
+          "lowestBmi" : 19.41885638320743
+  },
+  {
+          "_id" : "Martinique",
+          "avarageBmi" : 24.025383631333913,
+          "highestBmi" : 24.025383631333913,
+          "lowestBmi" : 24.025383631333913
+  },
+  {
+          "_id" : "Uganda",
+          "avarageBmi" : 25.799926326819378,
+          "highestBmi" : 33.245708734909755,
+          "lowestBmi" : 20.58589719317205
+  },
+  {
+          "_id" : "Palau",
+          "avarageBmi" : 29.619032693868498,
+          "highestBmi" : 29.99935995904786,
+          "lowestBmi" : 29.238705428689137
+  },
+  {
+          "_id" : "South Sudan",
+          "avarageBmi" : 25.958795187276632,
+          "highestBmi" : 25.958795187276632,
+          "lowestBmi" : 25.958795187276632
+  },
+  {
+          "_id" : "Tunisia",
+          "avarageBmi" : 23.806191754301086,
+          "highestBmi" : 30.378661433345993,
+          "lowestBmi" : 17.900338466793517
+  },
+  {
+          "_id" : "Equatorial Guinea",
+          "avarageBmi" : 24.784158605052227,
+          "highestBmi" : 24.784158605052227,
+          "lowestBmi" : 24.784158605052227
+  },
+  {
+          "_id" : "Norway",
+          "avarageBmi" : 27.012053304746868,
+          "highestBmi" : 35.1671816861818,
+          "lowestBmi" : 19.602504292612466
+  },
+  {
+          "_id" : "Guyana",
+          "avarageBmi" : 26.155629974879574,
+          "highestBmi" : 28.21437073786827,
+          "lowestBmi" : 24.096889211890876
+  },
+  {
+          "_id" : "East Timor",
+          "avarageBmi" : 25.827978752662307,
+          "highestBmi" : 32.7295665335962,
+          "lowestBmi" : 21.52514539442196
+  },
+  {
+          "_id" : "Japan",
+          "avarageBmi" : 25.288979118123063,
+          "highestBmi" : 37.208271542614156,
+          "lowestBmi" : 18.90452276508069
+  },
+  {
+          "_id" : "Palestinian Territory",
+          "avarageBmi" : 25.51977107836518,
+          "highestBmi" : 35.54150728191122,
+          "lowestBmi" : 19.179525110549182
+  },
+  {
+          "_id" : "Comoros",
+          "avarageBmi" : 25.43904303433795,
+          "highestBmi" : 33.86465840113391,
+          "lowestBmi" : 19.73678859401531
+  },
+  {
+          "_id" : "Nigeria",
+          "avarageBmi" : 24.802388203011215,
+          "highestBmi" : 36.16277887197436,
+          "lowestBmi" : 16.860335772659226
+  },
+  {
+          "_id" : "Ireland",
+          "avarageBmi" : 25.94602693286139,
+          "highestBmi" : 33.51950090390849,
+          "lowestBmi" : 17.753180049744596
+  },
+  {
+          "_id" : "Greece",
+          "avarageBmi" : 25.70078204567052,
+          "highestBmi" : 41.52589808442401,
+          "lowestBmi" : 18.2408247665103
+  },
+  {
+          "_id" : "Bangladesh",
+          "avarageBmi" : 26.693456288940414,
+          "highestBmi" : 34.06297114172176,
+          "lowestBmi" : 19.809821191475773
+  },
+  {
+          "_id" : "Republic of the Congo",
+          "avarageBmi" : 25.559867696319753,
+          "highestBmi" : 30.40321009942462,
+          "lowestBmi" : 17.66140782350201
+  },
+  {
+          "_id" : "Thailand",
+          "avarageBmi" : 25.625415700663876,
+          "highestBmi" : 35.590560182726435,
+          "lowestBmi" : 18.1817173424744
+  },
+  {
+          "_id" : "Kosovo",
+          "avarageBmi" : 24.13095183240382,
+          "highestBmi" : 29.624326587170813,
+          "lowestBmi" : 19.254012570630334
+  },
+  {
+          "_id" : "Guadeloupe",
+          "avarageBmi" : 20.619298326605616,
+          "highestBmi" : 22.066287052482927,
+          "lowestBmi" : 19.1723096007283
+  },
+  {
+          "_id" : "Benin",
+          "avarageBmi" : 25.77836456996179,
+          "highestBmi" : 30.296481888973993,
+          "lowestBmi" : 21.326707132619113
+  },
+  {
+          "_id" : "Malawi",
+          "avarageBmi" : 27.299142700133018,
+          "highestBmi" : 30.498934041274012,
+          "lowestBmi" : 23.29026327914253
+  },
+  {
+          "_id" : "Kuwait",
+          "avarageBmi" : 25.231665011916373,
+          "highestBmi" : 27.184318738806667,
+          "lowestBmi" : 22.43979747671335
+  },
+  {
+          "_id" : "Germany",
+          "avarageBmi" : 24.173637497584508,
+          "highestBmi" : 32.56393192452176,
+          "lowestBmi" : 16.779702545176814
+  },
+  {
+          "_id" : "Macedonia",
+          "avarageBmi" : 25.169543167338254,
+          "highestBmi" : 32.52569417786054,
+          "lowestBmi" : 20.495052187246902
+  },
+  {
+          "_id" : "Portugal",
+          "avarageBmi" : 25.271086444105396,
+          "highestBmi" : 39.66789019620169,
+          "lowestBmi" : 15.639034707565335
+  },
+  {
+          "_id" : "American Samoa",
+          "avarageBmi" : 22.398336918076584,
+          "highestBmi" : 22.398336918076584,
+          "lowestBmi" : 22.398336918076584
+  },
+  {
+          "_id" : "Sint Maarten",
+          "avarageBmi" : 23.16078482034497,
+          "highestBmi" : 24.103065474104024,
+          "lowestBmi" : 22.218504166585912
+  },
+  {
+          "_id" : "Algeria",
+          "avarageBmi" : 28.594463853802747,
+          "highestBmi" : 28.594463853802747,
+          "lowestBmi" : 28.594463853802747
+  },
+  {
+          "_id" : "Guam",
+          "avarageBmi" : 22.450193658121716,
+          "highestBmi" : 24.012673635721274,
+          "lowestBmi" : 20.673090321864905
+  },
+  {
+          "_id" : "Myanmar",
+          "avarageBmi" : 25.964386191009897,
+          "highestBmi" : 31.448459395139455,
+          "lowestBmi" : 20.99743660839639
+  },
+  {
+          "_id" : "Jordan",
+          "avarageBmi" : 25.603840773092998,
+          "highestBmi" : 32.353159768034715,
+          "lowestBmi" : 17.289044939043503
+  },
+  {
+          "_id" : "New Caledonia",
+          "avarageBmi" : 25.50588178834554,
+          "highestBmi" : 26.939955901091704,
+          "lowestBmi" : 24.07180767559938
+  },
+  {
+          "_id" : "Central African Republic",
+          "avarageBmi" : 23.916787330266967,
+          "highestBmi" : 28.954561237220556,
+          "lowestBmi" : 19.614899401982278
+  },
+  {
+          "_id" : "Andorra",
+          "avarageBmi" : 28.172283654749506,
+          "highestBmi" : 30.65208078150739,
+          "lowestBmi" : 25.692486527991623
+  },
+  {
+          "_id" : "Vanuatu",
+          "avarageBmi" : 24.697548912916897,
+          "highestBmi" : 27.20784148023659,
+          "lowestBmi" : 23.049311522774556
+  },
+  {
+          "_id" : "Hong Kong",
+          "avarageBmi" : 27.28283221221082,
+          "highestBmi" : 27.28283221221082,
+          "lowestBmi" : 27.28283221221082
+  },
+  {
+          "_id" : "Ethiopia",
+          "avarageBmi" : 25.47396595279003,
+          "highestBmi" : 32.85411863239378,
+          "lowestBmi" : 20.55367285745029
+  },
+  {
+          "_id" : "Lithuania",
+          "avarageBmi" : 24.414208345235185,
+          "highestBmi" : 30.887830005968027,
+          "lowestBmi" : 19.68833974966633
+  },
+  {
+          "_id" : "French Guiana",
+          "avarageBmi" : 25.591509763617097,
+          "highestBmi" : 28.91121902539661,
+          "lowestBmi" : 22.271800501837582
+  },
+  {
+          "_id" : "Suriname",
+          "avarageBmi" : 30.38931494743512,
+          "highestBmi" : 30.38931494743512,
+          "lowestBmi" : 30.38931494743512
+  },
+  {
+          "_id" : "Sweden",
+          "avarageBmi" : 25.662875037004994,
+          "highestBmi" : 40.088590561693096,
+          "lowestBmi" : 17.422055894220154
+  },
+  {
+          "_id" : "Turkmenistan",
+          "avarageBmi" : 26.074693406233422,
+          "highestBmi" : 30.263793694794966,
+          "lowestBmi" : 21.536036875349122
+  },
+  {
+          "_id" : "Namibia",
+          "avarageBmi" : 25.4913328121885,
+          "highestBmi" : 32.28039749878038,
+          "lowestBmi" : 19.26580170883617
+  },
+  {
+          "_id" : "France",
+          "avarageBmi" : 25.113994796476053,
+          "highestBmi" : 40.68709814176658,
+          "lowestBmi" : 14.89181034611511
+  },
+  {
+          "_id" : "Philippines",
+          "avarageBmi" : 25.126490662700355,
+          "highestBmi" : 40.14921877820496,
+          "lowestBmi" : 15.783361633607486
+  },
+  {
+          "_id" : "Laos",
+          "avarageBmi" : 24.706560500173143,
+          "highestBmi" : 28.47054793500705,
+          "lowestBmi" : 20.414405907869938
+  },
+  {
+          "_id" : "Qatar",
+          "avarageBmi" : 25.750482706734886,
+          "highestBmi" : 29.599291029472685,
+          "lowestBmi" : 21.90167438399709
+  },
+  {
+          "_id" : "Israel",
+          "avarageBmi" : 25.063596594229075,
+          "highestBmi" : 30.14483568029636,
+          "lowestBmi" : 16.525549024295877
+  },
+  {
+          "_id" : "Yemen",
+          "avarageBmi" : 25.520741902141804,
+          "highestBmi" : 34.85489627858924,
+          "lowestBmi" : 20.910656892847584
+  },
+  {
+          "_id" : "Mongolia",
+          "avarageBmi" : 23.94448855430014,
+          "highestBmi" : 31.47600262984878,
+          "lowestBmi" : 19.12334810050309
+  },
+  {
+          "_id" : "Belize",
+          "avarageBmi" : 23.220039319907464,
+          "highestBmi" : 26.22341661344843,
+          "lowestBmi" : 18.424047224128543
+  },
+  {
+          "_id" : "Fiji",
+          "avarageBmi" : 21.202149695398855,
+          "highestBmi" : 21.202149695398855,
+          "lowestBmi" : 21.202149695398855
+  },
+  {
+          "_id" : "Turkey",
+          "avarageBmi" : 22.991591061963124,
+          "highestBmi" : 23.218818230827427,
+          "lowestBmi" : 22.712340024306464
+  },
+  {
+          "_id" : "Oman",
+          "avarageBmi" : 25.688221135833004,
+          "highestBmi" : 27.084022161790852,
+          "lowestBmi" : 23.599509054084226
+  },
+  {
+          "_id" : "Peru",
+          "avarageBmi" : 25.221916507389217,
+          "highestBmi" : 36.36334544992972,
+          "lowestBmi" : 17.806002361986923
+  },
+  {
+          "_id" : "Cuba",
+          "avarageBmi" : 26.37919135685751,
+          "highestBmi" : 35.42409829567975,
+          "lowestBmi" : 18.489462979361967
+  },
+  {
+          "_id" : "United Arab Emirates",
+          "avarageBmi" : 26.572025231735637,
+          "highestBmi" : 29.753071854779463,
+          "lowestBmi" : 23.390978608691807
+  },
+  {
+          "_id" : "Venezuela",
+          "avarageBmi" : 24.75845769901119,
+          "highestBmi" : 31.135855490289444,
+          "lowestBmi" : 18.86211751235061
+  },
+  {
+          "_id" : "Bulgaria",
+          "avarageBmi" : 24.309744266991725,
+          "highestBmi" : 32.5985033633058,
+          "lowestBmi" : 18.415763633181026
+  },
+  {
+          "_id" : "Pakistan",
+          "avarageBmi" : 25.02816349688192,
+          "highestBmi" : 35.54144749573527,
+          "lowestBmi" : 17.507302336811122
+  },
+  {
+          "_id" : "Colombia",
+          "avarageBmi" : 25.68656089567334,
+          "highestBmi" : 35.4010351305359,
+          "lowestBmi" : 17.766168088813238
+  },
+  {
+          "_id" : "Syria",
+          "avarageBmi" : 25.379241567006584,
+          "highestBmi" : 36.4017489356862,
+          "lowestBmi" : 18.668899303500158
+  },
+  {
+          "_id" : "Lebanon",
+          "avarageBmi" : 27.50900155800487,
+          "highestBmi" : 32.444431072334524,
+          "lowestBmi" : 22.696782965005376
+  },
+  {
+          "_id" : "Sri Lanka",
+          "avarageBmi" : 24.576523965721474,
+          "highestBmi" : 28.60361966419167,
+          "lowestBmi" : 20.744421581687575
+  },
+  {
+          "_id" : "Bosnia and Herzegovina",
+          "avarageBmi" : 25.418629730315736,
+          "highestBmi" : 35.97395007994128,
+          "lowestBmi" : 16.930664311421886
+  },
+  {
+          "_id" : "Panama",
+          "avarageBmi" : 24.992264629881035,
+          "highestBmi" : 33.204916913317156,
+          "lowestBmi" : 20.497034879989776
+  },
+  {
+          "_id" : "Reunion",
+          "avarageBmi" : 26.421775697845288,
+          "highestBmi" : 39.16506059010436,
+          "lowestBmi" : 18.72890348175829
+  },
+  {
+          "_id" : "Malta",
+          "avarageBmi" : 26.169580448971242,
+          "highestBmi" : 36.01978908588236,
+          "lowestBmi" : 22.120384249306703
+  },
+  {
+          "_id" : "Iceland",
+          "avarageBmi" : 25.59095093253576,
+          "highestBmi" : 30.14738226195103,
+          "lowestBmi" : 22.674667319714626
+  },
+  {
+          "_id" : "Eritrea",
+          "avarageBmi" : 26.18666676758779,
+          "highestBmi" : 28.706187680256324,
+          "lowestBmi" : 24.502688749443237
+  },
+  {
+          "_id" : "Mauritania",
+          "avarageBmi" : 21.56355023247727,
+          "highestBmi" : 22.6996212151413,
+          "lowestBmi" : 20.427479249813242
+  },
+  {
+          "_id" : "Malaysia",
+          "avarageBmi" : 25.61238899059476,
+          "highestBmi" : 36.53428355033911,
+          "lowestBmi" : 18.54461856797744
+  },
+  {
+          "_id" : "Belgium",
+          "avarageBmi" : 26.140778626016402,
+          "highestBmi" : 28.997682388567068,
+          "lowestBmi" : 20.047926099827215
+  },
+  {
+          "_id" : "South Korea",
+          "avarageBmi" : 24.516246096774278,
+          "highestBmi" : 31.35384445026281,
+          "lowestBmi" : 17.724971165813702
+  },
+  {
+          "_id" : "Latvia",
+          "avarageBmi" : 26.634771177397017,
+          "highestBmi" : 32.88731053562053,
+          "lowestBmi" : 18.435535988693054
+  },
+  {
+          "_id" : "Bolivia",
+          "avarageBmi" : 25.291606754307583,
+          "highestBmi" : 32.04862302606189,
+          "lowestBmi" : 20.461244736382792
+  },
+  {
+          "_id" : "Madagascar",
+          "avarageBmi" : 24.78315354739493,
+          "highestBmi" : 30.189583737327382,
+          "lowestBmi" : 17.556666479697988
+  },
+  {
+          "_id" : "Vietnam",
+          "avarageBmi" : 24.90100447949815,
+          "highestBmi" : 32.97072894443237,
+          "lowestBmi" : 16.588074623788906
+  },
+  {
+          "_id" : "Seychelles",
+          "avarageBmi" : 25.710551755136727,
+          "highestBmi" : 25.710551755136727,
+          "lowestBmi" : 25.710551755136727
+  },
+  {
+          "_id" : "Iraq",
+          "avarageBmi" : 24.097732336776872,
+          "highestBmi" : 33.23798843565602,
+          "lowestBmi" : 17.811382149213077
+  },
+  {
+          "_id" : "Brazil",
+          "avarageBmi" : 25.553839828790494,
+          "highestBmi" : 40.629137270681994,
+          "lowestBmi" : 17.455901881799917
+  },
+  {
+          "_id" : "United Kingdom",
+          "avarageBmi" : 23.785736038981,
+          "highestBmi" : 31.903158982438534,
+          "lowestBmi" : 19.427928671881645
+  },
+  {
+          "_id" : "Luxembourg",
+          "avarageBmi" : 26.311128380021454,
+          "highestBmi" : 33.21935122648016,
+          "lowestBmi" : 19.267057864459574
+  },
+  {
+          "_id" : "Dominica",
+          "avarageBmi" : 26.42147612552151,
+          "highestBmi" : 26.42147612552151,
+          "lowestBmi" : 26.42147612552151
+  },
+  {
+          "_id" : "Saudi Arabia",
+          "avarageBmi" : 25.676484975670657,
+          "highestBmi" : 32.095388696280175,
+          "lowestBmi" : 19.971991294865283
+  },
+  {
+          "_id" : "Ecuador",
+          "avarageBmi" : 25.66255028757021,
+          "highestBmi" : 31.540757595400457,
+          "lowestBmi" : 19.837789435759387
+  },
+  {
+          "_id" : "Montenegro",
+          "avarageBmi" : 24.00617071684226,
+          "highestBmi" : 29.526909667433987,
+          "lowestBmi" : 20.73659089443422
+  },
+  {
+          "_id" : "Trinidad and Tobago",
+          "avarageBmi" : 27.598645704582985,
+          "highestBmi" : 31.519844903401175,
+          "lowestBmi" : 22.714055076873127
+  },
+  {
+          "_id" : "New Zealand",
+          "avarageBmi" : 25.359794144919384,
+          "highestBmi" : 33.708938690778766,
+          "lowestBmi" : 20.015037796508505
+  },
+  {
+          "_id" : "Western Sahara",
+          "avarageBmi" : 22.75109226188259,
+          "highestBmi" : 22.75109226188259,
+          "lowestBmi" : 22.75109226188259
+  },
+  {
+          "_id" : "Burkina Faso",
+          "avarageBmi" : 27.581473331497783,
+          "highestBmi" : 39.84736448162324,
+          "lowestBmi" : 19.874924416260065
+  },
+  {
+          "_id" : "Cameroon",
+          "avarageBmi" : 24.6366953354223,
+          "highestBmi" : 33.171539196923106,
+          "lowestBmi" : 19.681646953380184
+  },
+  {
+          "_id" : "French Polynesia",
+          "avarageBmi" : 25.351408860541465,
+          "highestBmi" : 28.539227949185673,
+          "lowestBmi" : 20.299688460981415
+  },
+  {
+          "_id" : "Nepal",
+          "avarageBmi" : 26.43434938647296,
+          "highestBmi" : 31.078489717648623,
+          "lowestBmi" : 19.748973244733463
+  },
+  {
+          "_id" : "Guinea-Bissau",
+          "avarageBmi" : 24.42720412339052,
+          "highestBmi" : 26.54403588086242,
+          "lowestBmi" : 23.28512818429207
+  },
+  {
+          "_id" : "Kazakhstan",
+          "avarageBmi" : 25.872296835537167,
+          "highestBmi" : 36.896740125150984,
+          "lowestBmi" : 16.8070799358325
+  },
+  {
+          "_id" : "Dominican Republic",
+          "avarageBmi" : 23.94786171912194,
+          "highestBmi" : 30.32549350733766,
+          "lowestBmi" : 18.01287119956941
+  },
+  {
+          "_id" : "Denmark",
+          "avarageBmi" : 23.570666794473013,
+          "highestBmi" : 27.824860598421296,
+          "lowestBmi" : 21.08473436367003
+  },
+  {
+          "_id" : "Georgia",
+          "avarageBmi" : 24.320295824417713,
+          "highestBmi" : 27.6963070482808,
+          "lowestBmi" : 19.907789367690288
+  },
+  {
+          "_id" : "Kenya",
+          "avarageBmi" : 25.84497767923738,
+          "highestBmi" : 32.415973001368904,
+          "lowestBmi" : 21.963094173998595
+  },
+  {
+          "_id" : "Serbia",
+          "avarageBmi" : 25.670277460078474,
+          "highestBmi" : 43.54832804682019,
+          "lowestBmi" : 18.75880119586755
+  },
+  {
+          "_id" : "Ukraine",
+          "avarageBmi" : 25.087610733459513,
+          "highestBmi" : 36.84222756372365,
+          "lowestBmi" : 16.525546999186044
+  },
+  {
+          "_id" : "Chile",
+          "avarageBmi" : 24.869680560672286,
+          "highestBmi" : 29.79885840825515,
+          "lowestBmi" : 16.9512916270108
+  },
+  {
+          "_id" : "Togo",
+          "avarageBmi" : 23.268539811569163,
+          "highestBmi" : 24.559999693631624,
+          "lowestBmi" : 21.483089176370907
+  },
+  {
+          "_id" : "Czech Republic",
+          "avarageBmi" : 25.175503361045358,
+          "highestBmi" : 33.15190133598319,
+          "lowestBmi" : 15.668304358780548
+  },
+  {
+          "_id" : "Spain",
+          "avarageBmi" : 26.172174392961136,
+          "highestBmi" : 34.9356602063431,
+          "lowestBmi" : 21.71883995935713
+  },
+  {
+          "_id" : "United States",
+          "avarageBmi" : 25.714043952231734,
+          "highestBmi" : 36.69514941999169,
+          "lowestBmi" : 18.501182435921706
+  },
+  {
+          "_id" : "Armenia",
+          "avarageBmi" : 24.941789322543038,
+          "highestBmi" : 31.668511004463014,
+          "lowestBmi" : 19.17386933002285
+  },
+  {
+          "_id" : "Costa Rica",
+          "avarageBmi" : 24.650437337200202,
+          "highestBmi" : 28.898569613792333,
+          "lowestBmi" : 20.494010942211922
+  },
+  {
+          "_id" : "Taiwan",
+          "avarageBmi" : 26.610153474174844,
+          "highestBmi" : 31.171391695878288,
+          "lowestBmi" : 20.359929764833222
+  },
+  {
+          "_id" : "Zimbabwe",
+          "avarageBmi" : 26.97591880240733,
+          "highestBmi" : 35.12027773402992,
+          "lowestBmi" : 22.609825375832813
+  },
+  {
+          "_id" : "Zambia",
+          "avarageBmi" : 25.857875377943596,
+          "highestBmi" : 31.44864603504859,
+          "lowestBmi" : 20.338719513529025
+  },
+  {
+          "_id" : "Kiribati",
+          "avarageBmi" : 23.104683336146245,
+          "highestBmi" : 23.104683336146245,
+          "lowestBmi" : 23.104683336146245
+  },
+  {
+          "_id" : "Sierra Leone",
+          "avarageBmi" : 25.11304222749876,
+          "highestBmi" : 33.448269454681686,
+          "lowestBmi" : 19.49887642053163
+  },
+  {
+          "_id" : "Egypt",
+          "avarageBmi" : 24.279172249085583,
+          "highestBmi" : 32.033722500448945,
+          "lowestBmi" : 17.650429873238075
+  },
+  {
+          "_id" : "Nauru",
+          "avarageBmi" : 22.91236113053845,
+          "highestBmi" : 22.91236113053845,
+          "lowestBmi" : 22.91236113053845
+  },
+  {
+          "_id" : "Tuvalu",
+          "avarageBmi" : 22.60418435695907,
+          "highestBmi" : 22.60418435695907,
+          "lowestBmi" : 22.60418435695907
+  },
+  {
+          "_id" : "Angola",
+          "avarageBmi" : 24.17967562103932,
+          "highestBmi" : 31.67480491405164,
+          "lowestBmi" : 18.362400744093293
+  },
+  {
+          "_id" : "Barbados",
+          "avarageBmi" : 21.343242644513325,
+          "highestBmi" : 21.343242644513325,
+          "lowestBmi" : 21.343242644513325
+  },
+  {
+          "_id" : "Austria",
+          "avarageBmi" : 27.93883177972952,
+          "highestBmi" : 37.259975846114166,
+          "lowestBmi" : 23.01532709975852
+  },
+  {
+          "_id" : "Slovakia",
+          "avarageBmi" : 21.338818810983465,
+          "highestBmi" : 21.338818810983465,
+          "lowestBmi" : 21.338818810983465
+  },
+  {
+          "_id" : "Italy",
+          "avarageBmi" : 25.224448562759804,
+          "highestBmi" : 31.28284127929142,
+          "lowestBmi" : 18.626656995429222
+  },
+  {
+          "_id" : "Guatemala",
+          "avarageBmi" : 25.59592341793013,
+          "highestBmi" : 32.13075314700059,
+          "lowestBmi" : 19.619608992088942
+  },
+  {
+          "_id" : "Maldives",
+          "avarageBmi" : 25.389870790829356,
+          "highestBmi" : 28.25830239759801,
+          "lowestBmi" : 23.654619429922963
+  },
+  {
+          "_id" : "Guinea",
+          "avarageBmi" : 27.9142215967982,
+          "highestBmi" : 34.462128538412365,
+          "lowestBmi" : 20.460478773371793
+  },
+  {
+          "_id" : "Gabon",
+          "avarageBmi" : 25.657536728265534,
+          "highestBmi" : 29.04827089492947,
+          "lowestBmi" : 22.266802561601597
+  },
+  {
+          "_id" : "Rwanda",
+          "avarageBmi" : 25.960475188853895,
+          "highestBmi" : 27.60395919371098,
+          "lowestBmi" : 22.834957662274157
+  },
+  {
+          "_id" : "Niger",
+          "avarageBmi" : 26.384679570852143,
+          "highestBmi" : 30.22683231486928,
+          "lowestBmi" : 20.07204296186382
+  },
+  {
+          "_id" : "Paraguay",
+          "avarageBmi" : 25.118908017345476,
+          "highestBmi" : 32.97774797284501,
+          "lowestBmi" : 21.194188847738655
+  },
+  {
+          "_id" : "Liberia",
+          "avarageBmi" : 25.901546538832037,
+          "highestBmi" : 29.63330910128883,
+          "lowestBmi" : 22.64819265750957
+  },
+  {
+          "_id" : "Mali",
+          "avarageBmi" : 24.919410302759925,
+          "highestBmi" : 31.67016743066081,
+          "lowestBmi" : 19.246685556164678
+  },
+  {
+          "_id" : "Switzerland",
+          "avarageBmi" : 25.70946937867775,
+          "highestBmi" : 31.153535521833074,
+          "lowestBmi" : 20.192102704387423
+  },
+  {
+          "_id" : "Democratic Republic of the Congo",
+          "avarageBmi" : 26.530271205495303,
+          "highestBmi" : 33.515401571866754,
+          "lowestBmi" : 18.27553140160477
+  },
+  {
+          "_id" : "Cyprus",
+          "avarageBmi" : 25.19379219201182,
+          "highestBmi" : 29.825489728395752,
+          "lowestBmi" : 22.195141736787935
+  },
+  {
+          "_id" : "South Africa",
+          "avarageBmi" : 25.864994700042747,
+          "highestBmi" : 40.54150514193364,
+          "lowestBmi" : 17.33504330126283
+  }
+]

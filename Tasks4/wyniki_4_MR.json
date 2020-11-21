@@ -1,0 +1,1610 @@
+[
+  {
+          "_id" : "Sweden",
+          "value" : {
+                  "averageBmi" : 25.66287503700499,
+                  "heighestBmi" : 40.088590561693096,
+                  "lowestBmi" : 17.422055894220154
+          }
+  },
+  {
+          "_id" : "Bulgaria",
+          "value" : {
+                  "averageBmi" : 24.30974426699172,
+                  "heighestBmi" : 32.5985033633058,
+                  "lowestBmi" : 18.415763633181026
+          }
+  },
+  {
+          "_id" : "Kosovo",
+          "value" : {
+                  "averageBmi" : 24.13095183240382,
+                  "heighestBmi" : 29.624326587170813,
+                  "lowestBmi" : 19.254012570630334
+          }
+  },
+  {
+          "_id" : "Fiji",
+          "value" : {
+                  "averageBmi" : 21.202149695398855,
+                  "heighestBmi" : 21.202149695398855,
+                  "lowestBmi" : 21.202149695398855
+          }
+  },
+  {
+          "_id" : "French Guiana",
+          "value" : {
+                  "averageBmi" : 25.591509763617097,
+                  "heighestBmi" : 28.91121902539661,
+                  "lowestBmi" : 22.271800501837582
+          }
+  },
+  {
+          "_id" : "Guadeloupe",
+          "value" : {
+                  "averageBmi" : 20.619298326605616,
+                  "heighestBmi" : 22.066287052482927,
+                  "lowestBmi" : 19.1723096007283
+          }
+  },
+  {
+          "_id" : "Palau",
+          "value" : {
+                  "averageBmi" : 29.619032693868498,
+                  "heighestBmi" : 29.99935995904786,
+                  "lowestBmi" : 29.238705428689137
+          }
+  },
+  {
+          "_id" : "Suriname",
+          "value" : {
+                  "averageBmi" : 30.38931494743512,
+                  "heighestBmi" : 30.38931494743512,
+                  "lowestBmi" : 30.38931494743512
+          }
+  },
+  {
+          "_id" : "Equatorial Guinea",
+          "value" : {
+                  "averageBmi" : 24.784158605052227,
+                  "heighestBmi" : 24.784158605052227,
+                  "lowestBmi" : 24.784158605052227
+          }
+  },
+  {
+          "_id" : "Oman",
+          "value" : {
+                  "averageBmi" : 25.688221135833007,
+                  "heighestBmi" : 27.084022161790852,
+                  "lowestBmi" : 23.599509054084226
+          }
+  },
+  {
+          "_id" : "Tuvalu",
+          "value" : {
+                  "averageBmi" : 22.60418435695907,
+                  "heighestBmi" : 22.60418435695907,
+                  "lowestBmi" : 22.60418435695907
+          }
+  },
+  {
+          "_id" : "Nepal",
+          "value" : {
+                  "averageBmi" : 26.43434938647296,
+                  "heighestBmi" : 31.078489717648623,
+                  "lowestBmi" : 19.748973244733463
+          }
+  },
+  {
+          "_id" : "Ghana",
+          "value" : {
+                  "averageBmi" : 25.211449181938868,
+                  "heighestBmi" : 32.50433727787583,
+                  "lowestBmi" : 19.513811851275083
+          }
+  },
+  {
+          "_id" : "Pakistan",
+          "value" : {
+                  "averageBmi" : 25.028163496881913,
+                  "heighestBmi" : 35.54144749573527,
+                  "lowestBmi" : 17.507302336811122
+          }
+  },
+  {
+          "_id" : "Togo",
+          "value" : {
+                  "averageBmi" : 23.268539811569163,
+                  "heighestBmi" : 24.559999693631624,
+                  "lowestBmi" : 21.483089176370907
+          }
+  },
+  {
+          "_id" : "Ukraine",
+          "value" : {
+                  "averageBmi" : 25.087610733459506,
+                  "heighestBmi" : 36.84222756372365,
+                  "lowestBmi" : 16.525546999186044
+          }
+  },
+  {
+          "_id" : "Luxembourg",
+          "value" : {
+                  "averageBmi" : 26.311128380021454,
+                  "heighestBmi" : 33.21935122648016,
+                  "lowestBmi" : 19.267057864459574
+          }
+  },
+  {
+          "_id" : "East Timor",
+          "value" : {
+                  "averageBmi" : 25.827978752662307,
+                  "heighestBmi" : 32.7295665335962,
+                  "lowestBmi" : 21.52514539442196
+          }
+  },
+  {
+          "_id" : "Syria",
+          "value" : {
+                  "averageBmi" : 25.37924156700659,
+                  "heighestBmi" : 36.4017489356862,
+                  "lowestBmi" : 18.668899303500158
+          }
+  },
+  {
+          "_id" : "Palestinian Territory",
+          "value" : {
+                  "averageBmi" : 25.51977107836519,
+                  "heighestBmi" : 35.54150728191122,
+                  "lowestBmi" : 19.179525110549182
+          }
+  },
+  {
+          "_id" : "Iraq",
+          "value" : {
+                  "averageBmi" : 24.097732336776875,
+                  "heighestBmi" : 33.23798843565602,
+                  "lowestBmi" : 17.811382149213077
+          }
+  },
+  {
+          "_id" : "United Kingdom",
+          "value" : {
+                  "averageBmi" : 23.785736038981,
+                  "heighestBmi" : 31.903158982438534,
+                  "lowestBmi" : 19.427928671881645
+          }
+  },
+  {
+          "_id" : "Chile",
+          "value" : {
+                  "averageBmi" : 24.869680560672293,
+                  "heighestBmi" : 29.79885840825515,
+                  "lowestBmi" : 16.9512916270108
+          }
+  },
+  {
+          "_id" : "Norway",
+          "value" : {
+                  "averageBmi" : 27.012053304746875,
+                  "heighestBmi" : 35.1671816861818,
+                  "lowestBmi" : 19.602504292612466
+          }
+  },
+  {
+          "_id" : "Malta",
+          "value" : {
+                  "averageBmi" : 26.169580448971242,
+                  "heighestBmi" : 36.01978908588236,
+                  "lowestBmi" : 22.120384249306703
+          }
+  },
+  {
+          "_id" : "Malawi",
+          "value" : {
+                  "averageBmi" : 27.299142700133018,
+                  "heighestBmi" : 30.498934041274012,
+                  "lowestBmi" : 23.29026327914253
+          }
+  },
+  {
+          "_id" : "Panama",
+          "value" : {
+                  "averageBmi" : 24.99226462988103,
+                  "heighestBmi" : 33.204916913317156,
+                  "lowestBmi" : 20.497034879989776
+          }
+  },
+  {
+          "_id" : "Reunion",
+          "value" : {
+                  "averageBmi" : 26.421775697845295,
+                  "heighestBmi" : 39.16506059010436,
+                  "lowestBmi" : 18.72890348175829
+          }
+  },
+  {
+          "_id" : "Sri Lanka",
+          "value" : {
+                  "averageBmi" : 24.576523965721474,
+                  "heighestBmi" : 28.60361966419167,
+                  "lowestBmi" : 20.744421581687575
+          }
+  },
+  {
+          "_id" : "Myanmar",
+          "value" : {
+                  "averageBmi" : 25.964386191009897,
+                  "heighestBmi" : 31.448459395139455,
+                  "lowestBmi" : 20.99743660839639
+          }
+  },
+  {
+          "_id" : "Slovenia",
+          "value" : {
+                  "averageBmi" : 25.041680484394,
+                  "heighestBmi" : 32.66109875399449,
+                  "lowestBmi" : 17.370385779694157
+          }
+  },
+  {
+          "_id" : "Western Sahara",
+          "value" : {
+                  "averageBmi" : 22.75109226188259,
+                  "heighestBmi" : 22.75109226188259,
+                  "lowestBmi" : 22.75109226188259
+          }
+  },
+  {
+          "_id" : "Rwanda",
+          "value" : {
+                  "averageBmi" : 25.96047518885389,
+                  "heighestBmi" : 27.60395919371098,
+                  "lowestBmi" : 22.834957662274157
+          }
+  },
+  {
+          "_id" : "Austria",
+          "value" : {
+                  "averageBmi" : 27.93883177972952,
+                  "heighestBmi" : 37.259975846114166,
+                  "lowestBmi" : 23.01532709975852
+          }
+  },
+  {
+          "_id" : "Slovakia",
+          "value" : {
+                  "averageBmi" : 21.338818810983465,
+                  "heighestBmi" : 21.338818810983465,
+                  "lowestBmi" : 21.338818810983465
+          }
+  },
+  {
+          "_id" : "Bosnia and Herzegovina",
+          "value" : {
+                  "averageBmi" : 25.418629730315736,
+                  "heighestBmi" : 35.97395007994128,
+                  "lowestBmi" : 16.930664311421886
+          }
+  },
+  {
+          "_id" : "Latvia",
+          "value" : {
+                  "averageBmi" : 26.634771177397017,
+                  "heighestBmi" : 32.88731053562053,
+                  "lowestBmi" : 18.435535988693054
+          }
+  },
+  {
+          "_id" : "South Korea",
+          "value" : {
+                  "averageBmi" : 24.51624609677428,
+                  "heighestBmi" : 31.35384445026281,
+                  "lowestBmi" : 17.724971165813702
+          }
+  },
+  {
+          "_id" : "Bolivia",
+          "value" : {
+                  "averageBmi" : 25.29160675430759,
+                  "heighestBmi" : 32.04862302606189,
+                  "lowestBmi" : 20.461244736382792
+          }
+  },
+  {
+          "_id" : "Saudi Arabia",
+          "value" : {
+                  "averageBmi" : 25.676484975670654,
+                  "heighestBmi" : 32.095388696280175,
+                  "lowestBmi" : 19.971991294865283
+          }
+  },
+  {
+          "_id" : "Ecuador",
+          "value" : {
+                  "averageBmi" : 25.66255028757021,
+                  "heighestBmi" : 31.540757595400457,
+                  "lowestBmi" : 19.837789435759387
+          }
+  },
+  {
+          "_id" : "Madagascar",
+          "value" : {
+                  "averageBmi" : 24.783153547394935,
+                  "heighestBmi" : 30.189583737327382,
+                  "lowestBmi" : 17.556666479697988
+          }
+  },
+  {
+          "_id" : "Jordan",
+          "value" : {
+                  "averageBmi" : 25.603840773092998,
+                  "heighestBmi" : 32.353159768034715,
+                  "lowestBmi" : 17.289044939043503
+          }
+  },
+  {
+          "_id" : "Ethiopia",
+          "value" : {
+                  "averageBmi" : 25.473965952790035,
+                  "heighestBmi" : 32.85411863239378,
+                  "lowestBmi" : 20.55367285745029
+          }
+  },
+  {
+          "_id" : "Bahamas",
+          "value" : {
+                  "averageBmi" : 24.994816322414778,
+                  "heighestBmi" : 26.596494551398333,
+                  "lowestBmi" : 22.243665360172294
+          }
+  },
+  {
+          "_id" : "Lebanon",
+          "value" : {
+                  "averageBmi" : 27.50900155800487,
+                  "heighestBmi" : 32.444431072334524,
+                  "lowestBmi" : 22.696782965005376
+          }
+  },
+  {
+          "_id" : "Mali",
+          "value" : {
+                  "averageBmi" : 24.919410302759925,
+                  "heighestBmi" : 31.67016743066081,
+                  "lowestBmi" : 19.246685556164678
+          }
+  },
+  {
+          "_id" : "New Zealand",
+          "value" : {
+                  "averageBmi" : 25.359794144919377,
+                  "heighestBmi" : 33.708938690778766,
+                  "lowestBmi" : 20.015037796508505
+          }
+  },
+  {
+          "_id" : "American Samoa",
+          "value" : {
+                  "averageBmi" : 22.398336918076584,
+                  "heighestBmi" : 22.398336918076584,
+                  "lowestBmi" : 22.398336918076584
+          }
+  },
+  {
+          "_id" : "Colombia",
+          "value" : {
+                  "averageBmi" : 25.686560895673352,
+                  "heighestBmi" : 35.4010351305359,
+                  "lowestBmi" : 17.766168088813238
+          }
+  },
+  {
+          "_id" : "United Arab Emirates",
+          "value" : {
+                  "averageBmi" : 26.572025231735637,
+                  "heighestBmi" : 29.753071854779463,
+                  "lowestBmi" : 23.390978608691807
+          }
+  },
+  {
+          "_id" : "Kyrgyzstan",
+          "value" : {
+                  "averageBmi" : 23.794563173538727,
+                  "heighestBmi" : 34.05576978971841,
+                  "lowestBmi" : 16.846474930530864
+          }
+  },
+  {
+          "_id" : "Taiwan",
+          "value" : {
+                  "averageBmi" : 26.610153474174844,
+                  "heighestBmi" : 31.171391695878288,
+                  "lowestBmi" : 20.359929764833222
+          }
+  },
+  {
+          "_id" : "South Africa",
+          "value" : {
+                  "averageBmi" : 25.864994700042747,
+                  "heighestBmi" : 40.54150514193364,
+                  "lowestBmi" : 17.33504330126283
+          }
+  },
+  {
+          "_id" : "Cyprus",
+          "value" : {
+                  "averageBmi" : 25.19379219201182,
+                  "heighestBmi" : 29.825489728395752,
+                  "lowestBmi" : 22.195141736787935
+          }
+  },
+  {
+          "_id" : "Aland Islands",
+          "value" : {
+                  "averageBmi" : 28.16261648965891,
+                  "heighestBmi" : 33.92911214898956,
+                  "lowestBmi" : 22.422508995430604
+          }
+  },
+  {
+          "_id" : "Cape Verde",
+          "value" : {
+                  "averageBmi" : 25.334661749885473,
+                  "heighestBmi" : 35.04527266278727,
+                  "lowestBmi" : 19.20724222151505
+          }
+  },
+  {
+          "_id" : "Liberia",
+          "value" : {
+                  "averageBmi" : 25.901546538832037,
+                  "heighestBmi" : 29.63330910128883,
+                  "lowestBmi" : 22.64819265750957
+          }
+  },
+  {
+          "_id" : "Switzerland",
+          "value" : {
+                  "averageBmi" : 25.70946937867775,
+                  "heighestBmi" : 31.153535521833074,
+                  "lowestBmi" : 20.192102704387423
+          }
+  },
+  {
+          "_id" : "Saint Lucia",
+          "value" : {
+                  "averageBmi" : 23.007900513203566,
+                  "heighestBmi" : 27.57036153167093,
+                  "lowestBmi" : 20.263359356035604
+          }
+  },
+  {
+          "_id" : "Chad",
+          "value" : {
+                  "averageBmi" : 25.905763020970006,
+                  "heighestBmi" : 32.14867661954464,
+                  "lowestBmi" : 19.379712122869797
+          }
+  },
+  {
+          "_id" : "Peru",
+          "value" : {
+                  "averageBmi" : 25.22191650738921,
+                  "heighestBmi" : 36.36334544992972,
+                  "lowestBmi" : 17.806002361986923
+          }
+  },
+  {
+          "_id" : "Senegal",
+          "value" : {
+                  "averageBmi" : 23.415570863855162,
+                  "heighestBmi" : 26.591448446940536,
+                  "lowestBmi" : 21.10083404913989
+          }
+  },
+  {
+          "_id" : "Guinea",
+          "value" : {
+                  "averageBmi" : 27.9142215967982,
+                  "heighestBmi" : 34.462128538412365,
+                  "lowestBmi" : 20.460478773371793
+          }
+  },
+  {
+          "_id" : "Nauru",
+          "value" : {
+                  "averageBmi" : 22.91236113053845,
+                  "heighestBmi" : 22.91236113053845,
+                  "lowestBmi" : 22.91236113053845
+          }
+  },
+  {
+          "_id" : "Serbia",
+          "value" : {
+                  "averageBmi" : 25.670277460078477,
+                  "heighestBmi" : 43.54832804682019,
+                  "lowestBmi" : 18.75880119586755
+          }
+  },
+  {
+          "_id" : "Malaysia",
+          "value" : {
+                  "averageBmi" : 25.612388990594752,
+                  "heighestBmi" : 36.53428355033911,
+                  "lowestBmi" : 18.54461856797744
+          }
+  },
+  {
+          "_id" : "Guatemala",
+          "value" : {
+                  "averageBmi" : 25.595923417930123,
+                  "heighestBmi" : 32.13075314700059,
+                  "lowestBmi" : 19.619608992088942
+          }
+  },
+  {
+          "_id" : "Armenia",
+          "value" : {
+                  "averageBmi" : 24.941789322543038,
+                  "heighestBmi" : 31.668511004463014,
+                  "lowestBmi" : 19.17386933002285
+          }
+  },
+  {
+          "_id" : "Zambia",
+          "value" : {
+                  "averageBmi" : 25.857875377943593,
+                  "heighestBmi" : 31.44864603504859,
+                  "lowestBmi" : 20.338719513529025
+          }
+  },
+  {
+          "_id" : "Dominican Republic",
+          "value" : {
+                  "averageBmi" : 23.94786171912194,
+                  "heighestBmi" : 30.32549350733766,
+                  "lowestBmi" : 18.01287119956941
+          }
+  },
+  {
+          "_id" : "Angola",
+          "value" : {
+                  "averageBmi" : 24.17967562103932,
+                  "heighestBmi" : 31.67480491405164,
+                  "lowestBmi" : 18.362400744093293
+          }
+  },
+  {
+          "_id" : "Italy",
+          "value" : {
+                  "averageBmi" : 25.224448562759804,
+                  "heighestBmi" : 31.28284127929142,
+                  "lowestBmi" : 18.626656995429222
+          }
+  },
+  {
+          "_id" : "Kiribati",
+          "value" : {
+                  "averageBmi" : 23.104683336146245,
+                  "heighestBmi" : 23.104683336146245,
+                  "lowestBmi" : 23.104683336146245
+          }
+  },
+  {
+          "_id" : "Gabon",
+          "value" : {
+                  "averageBmi" : 25.657536728265534,
+                  "heighestBmi" : 29.04827089492947,
+                  "lowestBmi" : 22.266802561601597
+          }
+  },
+  {
+          "_id" : "Barbados",
+          "value" : {
+                  "averageBmi" : 21.343242644513325,
+                  "heighestBmi" : 21.343242644513325,
+                  "lowestBmi" : 21.343242644513325
+          }
+  },
+  {
+          "_id" : "Lesotho",
+          "value" : {
+                  "averageBmi" : 25.35989698056186,
+                  "heighestBmi" : 30.164460328890495,
+                  "lowestBmi" : 19.804653958825412
+          }
+  },
+  {
+          "_id" : "Costa Rica",
+          "value" : {
+                  "averageBmi" : 24.650437337200206,
+                  "heighestBmi" : 28.898569613792333,
+                  "lowestBmi" : 20.494010942211922
+          }
+  },
+  {
+          "_id" : "Sierra Leone",
+          "value" : {
+                  "averageBmi" : 25.11304222749876,
+                  "heighestBmi" : 33.448269454681686,
+                  "lowestBmi" : 19.49887642053163
+          }
+  },
+  {
+          "_id" : "Cameroon",
+          "value" : {
+                  "averageBmi" : 24.636695335422306,
+                  "heighestBmi" : 33.171539196923106,
+                  "lowestBmi" : 19.681646953380184
+          }
+  },
+  {
+          "_id" : "Northern Mariana Islands",
+          "value" : {
+                  "averageBmi" : 25.912320610983855,
+                  "heighestBmi" : 25.912320610983855,
+                  "lowestBmi" : 25.912320610983855
+          }
+  },
+  {
+          "_id" : "Dominica",
+          "value" : {
+                  "averageBmi" : 26.42147612552151,
+                  "heighestBmi" : 26.42147612552151,
+                  "lowestBmi" : 26.42147612552151
+          }
+  },
+  {
+          "_id" : "Spain",
+          "value" : {
+                  "averageBmi" : 26.172174392961136,
+                  "heighestBmi" : 34.9356602063431,
+                  "lowestBmi" : 21.71883995935713
+          }
+  },
+  {
+          "_id" : "Czech Republic",
+          "value" : {
+                  "averageBmi" : 25.175503361045344,
+                  "heighestBmi" : 33.15190133598319,
+                  "lowestBmi" : 15.668304358780548
+          }
+  },
+  {
+          "_id" : "Zimbabwe",
+          "value" : {
+                  "averageBmi" : 26.97591880240733,
+                  "heighestBmi" : 35.12027773402992,
+                  "lowestBmi" : 22.609825375832813
+          }
+  },
+  {
+          "_id" : "Maldives",
+          "value" : {
+                  "averageBmi" : 25.389870790829356,
+                  "heighestBmi" : 28.25830239759801,
+                  "lowestBmi" : 23.654619429922963
+          }
+  },
+  {
+          "_id" : "Seychelles",
+          "value" : {
+                  "averageBmi" : 25.710551755136727,
+                  "heighestBmi" : 25.710551755136727,
+                  "lowestBmi" : 25.710551755136727
+          }
+  },
+  {
+          "_id" : "Australia",
+          "value" : {
+                  "averageBmi" : 25.195047158310075,
+                  "heighestBmi" : 29.824555993432554,
+                  "lowestBmi" : 20.65310909810227
+          }
+  },
+  {
+          "_id" : "Niger",
+          "value" : {
+                  "averageBmi" : 26.384679570852143,
+                  "heighestBmi" : 30.22683231486928,
+                  "lowestBmi" : 20.07204296186382
+          }
+  },
+  {
+          "_id" : "Georgia",
+          "value" : {
+                  "averageBmi" : 24.320295824417713,
+                  "heighestBmi" : 27.6963070482808,
+                  "lowestBmi" : 19.907789367690288
+          }
+  },
+  {
+          "_id" : "Kenya",
+          "value" : {
+                  "averageBmi" : 25.84497767923738,
+                  "heighestBmi" : 32.415973001368904,
+                  "lowestBmi" : 21.963094173998595
+          }
+  },
+  {
+          "_id" : "Burkina Faso",
+          "value" : {
+                  "averageBmi" : 27.58147333149779,
+                  "heighestBmi" : 39.84736448162324,
+                  "lowestBmi" : 19.874924416260065
+          }
+  },
+  {
+          "_id" : "Marshall Islands",
+          "value" : {
+                  "averageBmi" : 24.4362224388107,
+                  "heighestBmi" : 26.899880561973735,
+                  "lowestBmi" : 22.403515045781823
+          }
+  },
+  {
+          "_id" : "Democratic Republic of the Congo",
+          "value" : {
+                  "averageBmi" : 26.530271205495303,
+                  "heighestBmi" : 33.515401571866754,
+                  "lowestBmi" : 18.27553140160477
+          }
+  },
+  {
+          "_id" : "Montenegro",
+          "value" : {
+                  "averageBmi" : 24.00617071684226,
+                  "heighestBmi" : 29.526909667433987,
+                  "lowestBmi" : 20.73659089443422
+          }
+  },
+  {
+          "_id" : "Wallis and Futuna",
+          "value" : {
+                  "averageBmi" : 26.38253925838278,
+                  "heighestBmi" : 28.43117093855067,
+                  "lowestBmi" : 24.33390757821489
+          }
+  },
+  {
+          "_id" : "Netherlands",
+          "value" : {
+                  "averageBmi" : 26.024676559538857,
+                  "heighestBmi" : 34.91379070141339,
+                  "lowestBmi" : 19.37514915181097
+          }
+  },
+  {
+          "_id" : "Monaco",
+          "value" : {
+                  "averageBmi" : 28.9279758282314,
+                  "heighestBmi" : 28.9279758282314,
+                  "lowestBmi" : 28.9279758282314
+          }
+  },
+  {
+          "_id" : "Paraguay",
+          "value" : {
+                  "averageBmi" : 25.118908017345476,
+                  "heighestBmi" : 32.97774797284501,
+                  "lowestBmi" : 21.194188847738655
+          }
+  },
+  {
+          "_id" : "Kazakhstan",
+          "value" : {
+                  "averageBmi" : 25.872296835537167,
+                  "heighestBmi" : 36.896740125150984,
+                  "lowestBmi" : 16.8070799358325
+          }
+  },
+  {
+          "_id" : "French Polynesia",
+          "value" : {
+                  "averageBmi" : 25.35140886054147,
+                  "heighestBmi" : 28.539227949185673,
+                  "lowestBmi" : 20.299688460981415
+          }
+  },
+  {
+          "_id" : "Moldova",
+          "value" : {
+                  "averageBmi" : 25.57295819429361,
+                  "heighestBmi" : 32.56715420989366,
+                  "lowestBmi" : 19.688381123290277
+          }
+  },
+  {
+          "_id" : "Guinea-Bissau",
+          "value" : {
+                  "averageBmi" : 24.42720412339052,
+                  "heighestBmi" : 26.54403588086242,
+                  "lowestBmi" : 23.28512818429207
+          }
+  },
+  {
+          "_id" : "Croatia",
+          "value" : {
+                  "averageBmi" : 24.859825049169952,
+                  "heighestBmi" : 38.54454850434303,
+                  "lowestBmi" : 18.791459338166646
+          }
+  },
+  {
+          "_id" : "Nicaragua",
+          "value" : {
+                  "averageBmi" : 23.962942198175195,
+                  "heighestBmi" : 30.0372110793386,
+                  "lowestBmi" : 19.7754882642013
+          }
+  },
+  {
+          "_id" : "Sudan",
+          "value" : {
+                  "averageBmi" : 24.951753358198896,
+                  "heighestBmi" : 26.388338263210727,
+                  "lowestBmi" : 22.77184895818426
+          }
+  },
+  {
+          "_id" : "Haiti",
+          "value" : {
+                  "averageBmi" : 25.435603301304152,
+                  "heighestBmi" : 34.706505929936306,
+                  "lowestBmi" : 18.63873039318409
+          }
+  },
+  {
+          "_id" : "El Salvador",
+          "value" : {
+                  "averageBmi" : 25.348361001442797,
+                  "heighestBmi" : 33.56299576484531,
+                  "lowestBmi" : 21.92582816065902
+          }
+  },
+  {
+          "_id" : "North Korea",
+          "value" : {
+                  "averageBmi" : 26.205146023322584,
+                  "heighestBmi" : 30.614290364070985,
+                  "lowestBmi" : 20.924212172010197
+          }
+  },
+  {
+          "_id" : "Burundi",
+          "value" : {
+                  "averageBmi" : 25.64831294896216,
+                  "heighestBmi" : 28.50245013159454,
+                  "lowestBmi" : 23.41760581267604
+          }
+  },
+  {
+          "_id" : "Greenland",
+          "value" : {
+                  "averageBmi" : 25.87231726224435,
+                  "heighestBmi" : 25.87231726224435,
+                  "lowestBmi" : 25.87231726224435
+          }
+  },
+  {
+          "_id" : "Jamaica",
+          "value" : {
+                  "averageBmi" : 24.93149892025034,
+                  "heighestBmi" : 28.975717835121532,
+                  "lowestBmi" : 22.275369146558596
+          }
+  },
+  {
+          "_id" : "Micronesia",
+          "value" : {
+                  "averageBmi" : 23.307344877130703,
+                  "heighestBmi" : 25.24886656617766,
+                  "lowestBmi" : 20.483583148077006
+          }
+  },
+  {
+          "_id" : "Albania",
+          "value" : {
+                  "averageBmi" : 24.708938287604877,
+                  "heighestBmi" : 31.98582559382973,
+                  "lowestBmi" : 18.995343497963386
+          }
+  },
+  {
+          "_id" : "Mauritius",
+          "value" : {
+                  "averageBmi" : 25.493607821171018,
+                  "heighestBmi" : 38.86342108446306,
+                  "lowestBmi" : 19.225308641975307
+          }
+  },
+  {
+          "_id" : "Canada",
+          "value" : {
+                  "averageBmi" : 25.357263741380084,
+                  "heighestBmi" : 33.61303753837222,
+                  "lowestBmi" : 16.408314613251758
+          }
+  },
+  {
+          "_id" : "South Sudan",
+          "value" : {
+                  "averageBmi" : 25.958795187276632,
+                  "heighestBmi" : 25.958795187276632,
+                  "lowestBmi" : 25.958795187276632
+          }
+  },
+  {
+          "_id" : "United States",
+          "value" : {
+                  "averageBmi" : 25.714043952231727,
+                  "heighestBmi" : 36.69514941999169,
+                  "lowestBmi" : 18.501182435921706
+          }
+  },
+  {
+          "_id" : "Denmark",
+          "value" : {
+                  "averageBmi" : 23.570666794473013,
+                  "heighestBmi" : 27.824860598421296,
+                  "lowestBmi" : 21.08473436367003
+          }
+  },
+  {
+          "_id" : "Libya",
+          "value" : {
+                  "averageBmi" : 27.27409420047267,
+                  "heighestBmi" : 35.14959498858504,
+                  "lowestBmi" : 21.42742372829579
+          }
+  },
+  {
+          "_id" : "Afghanistan",
+          "value" : {
+                  "averageBmi" : 24.844570703022438,
+                  "heighestBmi" : 31.680724277814612,
+                  "lowestBmi" : 17.09902396818706
+          }
+  },
+  {
+          "_id" : "Kuwait",
+          "value" : {
+                  "averageBmi" : 25.231665011916373,
+                  "heighestBmi" : 27.184318738806667,
+                  "lowestBmi" : 22.43979747671335
+          }
+  },
+  {
+          "_id" : "Martinique",
+          "value" : {
+                  "averageBmi" : 24.025383631333913,
+                  "heighestBmi" : 24.025383631333913,
+                  "lowestBmi" : 24.025383631333913
+          }
+  },
+  {
+          "_id" : "Somalia",
+          "value" : {
+                  "averageBmi" : 29.953705951906365,
+                  "heighestBmi" : 29.953705951906365,
+                  "lowestBmi" : 29.953705951906365
+          }
+  },
+  {
+          "_id" : "New Caledonia",
+          "value" : {
+                  "averageBmi" : 25.50588178834554,
+                  "heighestBmi" : 26.939955901091704,
+                  "lowestBmi" : 24.07180767559938
+          }
+  },
+  {
+          "_id" : "Poland",
+          "value" : {
+                  "averageBmi" : 25.22836297321035,
+                  "heighestBmi" : 36.71954280831063,
+                  "lowestBmi" : 16.79139666621858
+          }
+  },
+  {
+          "_id" : "Finland",
+          "value" : {
+                  "averageBmi" : 25.628447139765242,
+                  "heighestBmi" : 36.88879211052598,
+                  "lowestBmi" : 18.313044445355132
+          }
+  },
+  {
+          "_id" : "Egypt",
+          "value" : {
+                  "averageBmi" : 24.279172249085583,
+                  "heighestBmi" : 32.033722500448945,
+                  "lowestBmi" : 17.650429873238075
+          }
+  },
+  {
+          "_id" : "Puerto Rico",
+          "value" : {
+                  "averageBmi" : 25.26234968805242,
+                  "heighestBmi" : 27.28341528253193,
+                  "lowestBmi" : 22.624807178343218
+          }
+  },
+  {
+          "_id" : "Honduras",
+          "value" : {
+                  "averageBmi" : 25.48034274333804,
+                  "heighestBmi" : 35.22066445474855,
+                  "lowestBmi" : 18.483295476526518
+          }
+  },
+  {
+          "_id" : "Uruguay",
+          "value" : {
+                  "averageBmi" : 25.32476196226835,
+                  "heighestBmi" : 34.361426322308105,
+                  "lowestBmi" : 20.368800960879323
+          }
+  },
+  {
+          "_id" : "China",
+          "value" : {
+                  "averageBmi" : 25.50467210206997,
+                  "heighestBmi" : 42.36228470295768,
+                  "lowestBmi" : 15.457567797405272
+          }
+  },
+  {
+          "_id" : "Tonga",
+          "value" : {
+                  "averageBmi" : 23.8293086776095,
+                  "heighestBmi" : 23.8293086776095,
+                  "lowestBmi" : 23.8293086776095
+          }
+  },
+  {
+          "_id" : "Brunei",
+          "value" : {
+                  "averageBmi" : 25.02697259105827,
+                  "heighestBmi" : 25.02697259105827,
+                  "lowestBmi" : 25.02697259105827
+          }
+  },
+  {
+          "_id" : "Estonia",
+          "value" : {
+                  "averageBmi" : 25.542136169318564,
+                  "heighestBmi" : 28.68360155605993,
+                  "lowestBmi" : 18.560878620789442
+          }
+  },
+  {
+          "_id" : "Samoa",
+          "value" : {
+                  "averageBmi" : 20.54488200453268,
+                  "heighestBmi" : 20.54488200453268,
+                  "lowestBmi" : 20.54488200453268
+          }
+  },
+  {
+          "_id" : "Qatar",
+          "value" : {
+                  "averageBmi" : 25.750482706734886,
+                  "heighestBmi" : 29.599291029472685,
+                  "lowestBmi" : 21.90167438399709
+          }
+  },
+  {
+          "_id" : "Russia",
+          "value" : {
+                  "averageBmi" : 25.271506003352922,
+                  "heighestBmi" : 39.88445766499928,
+                  "lowestBmi" : 15.959050973980357
+          }
+  },
+  {
+          "_id" : "Macedonia",
+          "value" : {
+                  "averageBmi" : 25.169543167338244,
+                  "heighestBmi" : 32.52569417786054,
+                  "lowestBmi" : 20.495052187246902
+          }
+  },
+  {
+          "_id" : "Papua New Guinea",
+          "value" : {
+                  "averageBmi" : 24.213264087002067,
+                  "heighestBmi" : 26.903589650913545,
+                  "lowestBmi" : 19.859417039821555
+          }
+  },
+  {
+          "_id" : "Tanzania",
+          "value" : {
+                  "averageBmi" : 25.781567064394096,
+                  "heighestBmi" : 34.9992957297564,
+                  "lowestBmi" : 17.23592052068185
+          }
+  },
+  {
+          "_id" : "Mexico",
+          "value" : {
+                  "averageBmi" : 25.384445588551415,
+                  "heighestBmi" : 36.2708751496718,
+                  "lowestBmi" : 17.298446794148454
+          }
+  },
+  {
+          "_id" : "Indonesia",
+          "value" : {
+                  "averageBmi" : 25.386897562233703,
+                  "heighestBmi" : 45.2254888114332,
+                  "lowestBmi" : 14.752916025545577
+          }
+  },
+  {
+          "_id" : "Botswana",
+          "value" : {
+                  "averageBmi" : 24.080448426345264,
+                  "heighestBmi" : 27.18178743838766,
+                  "lowestBmi" : 17.209620064111167
+          }
+  },
+  {
+          "_id" : "Yemen",
+          "value" : {
+                  "averageBmi" : 25.5207419021418,
+                  "heighestBmi" : 34.85489627858924,
+                  "lowestBmi" : 20.910656892847584
+          }
+  },
+  {
+          "_id" : "Saint Kitts and Nevis",
+          "value" : {
+                  "averageBmi" : 27.80112893513996,
+                  "heighestBmi" : 30.06261206327215,
+                  "lowestBmi" : 25.181373219019413
+          }
+  },
+  {
+          "_id" : "Argentina",
+          "value" : {
+                  "averageBmi" : 25.625245579612248,
+                  "heighestBmi" : 34.13224063185605,
+                  "lowestBmi" : 17.58733455568425
+          }
+  },
+  {
+          "_id" : "Cuba",
+          "value" : {
+                  "averageBmi" : 26.379191356857508,
+                  "heighestBmi" : 35.42409829567975,
+                  "lowestBmi" : 18.489462979361967
+          }
+  },
+  {
+          "_id" : "Cambodia",
+          "value" : {
+                  "averageBmi" : 25.98009869778392,
+                  "heighestBmi" : 33.32850035102713,
+                  "lowestBmi" : 17.556863214141693
+          }
+  },
+  {
+          "_id" : "Tunisia",
+          "value" : {
+                  "averageBmi" : 23.80619175430109,
+                  "heighestBmi" : 30.378661433345993,
+                  "lowestBmi" : 17.900338466793517
+          }
+  },
+  {
+          "_id" : "Mauritania",
+          "value" : {
+                  "averageBmi" : 21.56355023247727,
+                  "heighestBmi" : 22.6996212151413,
+                  "lowestBmi" : 20.427479249813242
+          }
+  },
+  {
+          "_id" : "Azerbaijan",
+          "value" : {
+                  "averageBmi" : 25.95352117807468,
+                  "heighestBmi" : 36.93348217200575,
+                  "lowestBmi" : 18.770569815679924
+          }
+  },
+  {
+          "_id" : "Uganda",
+          "value" : {
+                  "averageBmi" : 25.799926326819378,
+                  "heighestBmi" : 33.245708734909755,
+                  "lowestBmi" : 20.58589719317205
+          }
+  },
+  {
+          "_id" : "Gambia",
+          "value" : {
+                  "averageBmi" : 23.773405222453228,
+                  "heighestBmi" : 29.041518380755527,
+                  "lowestBmi" : 17.84046677774891
+          }
+  },
+  {
+          "_id" : "Venezuela",
+          "value" : {
+                  "averageBmi" : 24.758457699011185,
+                  "heighestBmi" : 31.135855490289444,
+                  "lowestBmi" : 18.86211751235061
+          }
+  },
+  {
+          "_id" : "Hungary",
+          "value" : {
+                  "averageBmi" : 26.314073634053802,
+                  "heighestBmi" : 32.69237888437416,
+                  "lowestBmi" : 22.357117184320284
+          }
+  },
+  {
+          "_id" : "Namibia",
+          "value" : {
+                  "averageBmi" : 25.491332812188503,
+                  "heighestBmi" : 32.28039749878038,
+                  "lowestBmi" : 19.26580170883617
+          }
+  },
+  {
+          "_id" : "Swaziland",
+          "value" : {
+                  "averageBmi" : 20.902625563889615,
+                  "heighestBmi" : 20.902625563889615,
+                  "lowestBmi" : 20.902625563889615
+          }
+  },
+  {
+          "_id" : "Turkey",
+          "value" : {
+                  "averageBmi" : 22.991591061963124,
+                  "heighestBmi" : 23.218818230827427,
+                  "lowestBmi" : 22.712340024306464
+          }
+  },
+  {
+          "_id" : "Andorra",
+          "value" : {
+                  "averageBmi" : 28.172283654749506,
+                  "heighestBmi" : 30.65208078150739,
+                  "lowestBmi" : 25.692486527991623
+          }
+  },
+  {
+          "_id" : "Hong Kong",
+          "value" : {
+                  "averageBmi" : 27.28283221221082,
+                  "heighestBmi" : 27.28283221221082,
+                  "lowestBmi" : 27.28283221221082
+          }
+  },
+  {
+          "_id" : "Sint Maarten",
+          "value" : {
+                  "averageBmi" : 23.16078482034497,
+                  "heighestBmi" : 24.103065474104024,
+                  "lowestBmi" : 22.218504166585912
+          }
+  },
+  {
+          "_id" : "Algeria",
+          "value" : {
+                  "averageBmi" : 28.594463853802747,
+                  "heighestBmi" : 28.594463853802747,
+                  "lowestBmi" : 28.594463853802747
+          }
+  },
+  {
+          "_id" : "Belize",
+          "value" : {
+                  "averageBmi" : 23.220039319907464,
+                  "heighestBmi" : 26.22341661344843,
+                  "lowestBmi" : 18.424047224128543
+          }
+  },
+  {
+          "_id" : "Nigeria",
+          "value" : {
+                  "averageBmi" : 24.802388203011226,
+                  "heighestBmi" : 36.16277887197436,
+                  "lowestBmi" : 16.860335772659226
+          }
+  },
+  {
+          "_id" : "Republic of the Congo",
+          "value" : {
+                  "averageBmi" : 25.559867696319753,
+                  "heighestBmi" : 30.40321009942462,
+                  "lowestBmi" : 17.66140782350201
+          }
+  },
+  {
+          "_id" : "Comoros",
+          "value" : {
+                  "averageBmi" : 25.439043034337953,
+                  "heighestBmi" : 33.86465840113391,
+                  "lowestBmi" : 19.73678859401531
+          }
+  },
+  {
+          "_id" : "Macao",
+          "value" : {
+                  "averageBmi" : 23.98847768982694,
+                  "heighestBmi" : 23.98847768982694,
+                  "lowestBmi" : 23.98847768982694
+          }
+  },
+  {
+          "_id" : "Eritrea",
+          "value" : {
+                  "averageBmi" : 26.186666767587784,
+                  "heighestBmi" : 28.706187680256324,
+                  "lowestBmi" : 24.502688749443237
+          }
+  },
+  {
+          "_id" : "Thailand",
+          "value" : {
+                  "averageBmi" : 25.62541570066387,
+                  "heighestBmi" : 35.590560182726435,
+                  "lowestBmi" : 18.1817173424744
+          }
+  },
+  {
+          "_id" : "Morocco",
+          "value" : {
+                  "averageBmi" : 25.87499924181595,
+                  "heighestBmi" : 32.90604019213787,
+                  "lowestBmi" : 20.182304322324796
+          }
+  },
+  {
+          "_id" : "Iceland",
+          "value" : {
+                  "averageBmi" : 25.59095093253576,
+                  "heighestBmi" : 30.14738226195103,
+                  "lowestBmi" : 22.674667319714626
+          }
+  },
+  {
+          "_id" : "Mozambique",
+          "value" : {
+                  "averageBmi" : 25.56294360884168,
+                  "heighestBmi" : 29.44789535394624,
+                  "lowestBmi" : 22.800359685650264
+          }
+  },
+  {
+          "_id" : "Belgium",
+          "value" : {
+                  "averageBmi" : 26.140778626016402,
+                  "heighestBmi" : 28.997682388567068,
+                  "lowestBmi" : 20.047926099827215
+          }
+  },
+  {
+          "_id" : "Bhutan",
+          "value" : {
+                  "averageBmi" : 24.056604894582005,
+                  "heighestBmi" : 31.35770002294631,
+                  "lowestBmi" : 19.41885638320743
+          }
+  },
+  {
+          "_id" : "Germany",
+          "value" : {
+                  "averageBmi" : 24.173637497584505,
+                  "heighestBmi" : 32.56393192452176,
+                  "lowestBmi" : 16.779702545176814
+          }
+  },
+  {
+          "_id" : "Belarus",
+          "value" : {
+                  "averageBmi" : 25.469679075687008,
+                  "heighestBmi" : 33.93864732017481,
+                  "lowestBmi" : 17.86291107456045
+          }
+  },
+  {
+          "_id" : "Greece",
+          "value" : {
+                  "averageBmi" : 25.70078204567052,
+                  "heighestBmi" : 41.52589808442401,
+                  "lowestBmi" : 18.2408247665103
+          }
+  },
+  {
+          "_id" : "Benin",
+          "value" : {
+                  "averageBmi" : 25.77836456996179,
+                  "heighestBmi" : 30.296481888973993,
+                  "lowestBmi" : 21.326707132619113
+          }
+  },
+  {
+          "_id" : "Guam",
+          "value" : {
+                  "averageBmi" : 22.450193658121716,
+                  "heighestBmi" : 24.012673635721274,
+                  "lowestBmi" : 20.673090321864905
+          }
+  },
+  {
+          "_id" : "Portugal",
+          "value" : {
+                  "averageBmi" : 25.271086444105404,
+                  "heighestBmi" : 39.66789019620169,
+                  "lowestBmi" : 15.639034707565335
+          }
+  },
+  {
+          "_id" : "Lithuania",
+          "value" : {
+                  "averageBmi" : 24.414208345235185,
+                  "heighestBmi" : 30.887830005968027,
+                  "lowestBmi" : 19.68833974966633
+          }
+  },
+  {
+          "_id" : "Vietnam",
+          "value" : {
+                  "averageBmi" : 24.901004479498162,
+                  "heighestBmi" : 32.97072894443237,
+                  "lowestBmi" : 16.588074623788906
+          }
+  },
+  {
+          "_id" : "Ivory Coast",
+          "value" : {
+                  "averageBmi" : 26.73916221830437,
+                  "heighestBmi" : 35.26565858224913,
+                  "lowestBmi" : 20.497202679469442
+          }
+  },
+  {
+          "_id" : "Guyana",
+          "value" : {
+                  "averageBmi" : 26.155629974879574,
+                  "heighestBmi" : 28.21437073786827,
+                  "lowestBmi" : 24.096889211890876
+          }
+  },
+  {
+          "_id" : "Japan",
+          "value" : {
+                  "averageBmi" : 25.288979118123052,
+                  "heighestBmi" : 37.208271542614156,
+                  "lowestBmi" : 18.90452276508069
+          }
+  },
+  {
+          "_id" : "Ireland",
+          "value" : {
+                  "averageBmi" : 25.946026932861393,
+                  "heighestBmi" : 33.51950090390849,
+                  "lowestBmi" : 17.753180049744596
+          }
+  },
+  {
+          "_id" : "Iran",
+          "value" : {
+                  "averageBmi" : 25.852744467464767,
+                  "heighestBmi" : 37.98020856315509,
+                  "lowestBmi" : 18.237996217377763
+          }
+  },
+  {
+          "_id" : "Bangladesh",
+          "value" : {
+                  "averageBmi" : 26.69345628894041,
+                  "heighestBmi" : 34.06297114172176,
+                  "lowestBmi" : 19.809821191475773
+          }
+  },
+  {
+          "_id" : "Brazil",
+          "value" : {
+                  "averageBmi" : 25.553839828790498,
+                  "heighestBmi" : 40.629137270681994,
+                  "lowestBmi" : 17.455901881799917
+          }
+  },
+  {
+          "_id" : "Mongolia",
+          "value" : {
+                  "averageBmi" : 23.94448855430015,
+                  "heighestBmi" : 31.47600262984878,
+                  "lowestBmi" : 19.12334810050309
+          }
+  },
+  {
+          "_id" : "Uzbekistan",
+          "value" : {
+                  "averageBmi" : 25.8950867205865,
+                  "heighestBmi" : 32.30460851219658,
+                  "lowestBmi" : 19.78219777101565
+          }
+  },
+  {
+          "_id" : "Trinidad and Tobago",
+          "value" : {
+                  "averageBmi" : 27.598645704582985,
+                  "heighestBmi" : 31.519844903401175,
+                  "lowestBmi" : 22.714055076873127
+          }
+  },
+  {
+          "_id" : "Vanuatu",
+          "value" : {
+                  "averageBmi" : 24.69754891291689,
+                  "heighestBmi" : 27.20784148023659,
+                  "lowestBmi" : 23.049311522774556
+          }
+  },
+  {
+          "_id" : "Israel",
+          "value" : {
+                  "averageBmi" : 25.06359659422907,
+                  "heighestBmi" : 30.14483568029636,
+                  "lowestBmi" : 16.525549024295877
+          }
+  },
+  {
+          "_id" : "Turkmenistan",
+          "value" : {
+                  "averageBmi" : 26.074693406233422,
+                  "heighestBmi" : 30.263793694794966,
+                  "lowestBmi" : 21.536036875349122
+          }
+  },
+  {
+          "_id" : "France",
+          "value" : {
+                  "averageBmi" : 25.113994796476057,
+                  "heighestBmi" : 40.68709814176658,
+                  "lowestBmi" : 14.89181034611511
+          }
+  },
+  {
+          "_id" : "Philippines",
+          "value" : {
+                  "averageBmi" : 25.126490662700352,
+                  "heighestBmi" : 40.14921877820496,
+                  "lowestBmi" : 15.783361633607486
+          }
+  },
+  {
+          "_id" : "Laos",
+          "value" : {
+                  "averageBmi" : 24.706560500173143,
+                  "heighestBmi" : 28.47054793500705,
+                  "lowestBmi" : 20.414405907869938
+          }
+  },
+  {
+          "_id" : "Tajikistan",
+          "value" : {
+                  "averageBmi" : 24.961843320223547,
+                  "heighestBmi" : 31.132650605821127,
+                  "lowestBmi" : 19.990278828313503
+          }
+  },
+  {
+          "_id" : "Central African Republic",
+          "value" : {
+                  "averageBmi" : 23.916787330266967,
+                  "heighestBmi" : 28.954561237220556,
+                  "lowestBmi" : 19.614899401982278
+          }
+  }
+]

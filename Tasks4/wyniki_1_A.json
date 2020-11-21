@@ -1,0 +1,18 @@
+[
+        {
+                "_id" : "Male",
+                "totalWeight" : 351199.07,
+                "totalHeight" : 838240.77,
+                "total" : 5017,
+                "averageWeight" : 70.00180785329879,
+                "averageHeight" : 167.0800817221447
+        },
+        {
+                "_id" : "Female",
+                "totalWeight" : 349377.27,
+                "totalHeight" : 832789.73,
+                "total" : 4983,
+                "averageWeight" : 70.11384105960265,
+                "averageHeight" : 167.12617499498293
+        }
+]
