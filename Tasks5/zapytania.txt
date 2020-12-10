@@ -1,0 +1,53 @@
+1.
+MATCH (movie:Movie) RETURN movie
+
+2.
+MATCH (hugo: Person {name: "Hugo Weaving"})-[:ACTED_IN]->(hugoMovies) RETURN hugoMovies
+
+3.
+MATCH (hugo: Person {name: "Hugo Weaving"})-[:ACTED_IN]->(hugoMovies) <-[:DIRECTED]-(directors) RETURN directors
+
+4.
+MATCH (hugo:Person {name:"Hugo Weaving"})-[:ACTED_IN]->(m)<-[:ACTED_IN]-(coActors) RETURN coActors
+
+5.
+MATCH (matrix:Movie {title:"The Matrix"})<-[:ACTED_IN]-(actors)-[:ACTED_IN]->(movies) RETURN movies
+
+6.
+MATCH (actors:Person)-[r:ACTED_IN]->(movie) WITH actors, count(r) AS movies RETURN actors, movies
+
+7. 
+MATCH (p:Person)-[:WROTE]->(m:Movie) WITH p, m MATCH (p)-[:DIRECTED]->(m) RETURN p,m
+
+8.
+MATCH (hugo: Person {name: "Hugo Weaving"})-[:ACTED_IN]->(m)<-[:ACTED_IN]-(keanu: Person {name: "Keanu Reeves"}) RETURN m
+
+9.
+CREATE (n:Movie {released: 2011, tagline: "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.", title: "Captain America: The First Avenger"})
+CREATE (n:Person {name: "Chris Evans", born: 1981 })
+CREATE (n:Person {name: "Hayley Atwell", born: 1982 })
+CREATE (n:Person {name: "Joe Johnston", born: 1950 })
+CREATE (n:Person {name: "Christopher Markus", born: 1970 })
+CREATE (n:Person {name: "Stephen McFeely", born: 1969 })
+
+MATCH (m:Movie),(p:Person)
+WHERE m.title = "Captain America: The First Avenger" AND p.name = "Chris Evans"
+CREATE (p)-[r:ACTED_IN]->(m)
+
+MATCH (m:Movie),(p:Person)
+WHERE m.title = "Captain America: The First Avenger" AND p.name = "Hayley Atwell"
+CREATE (p)-[r:ACTED_IN]->(m)
+
+MATCH (m:Movie),(p:Person)
+WHERE m.title = "Captain America: The First Avenger" AND p.name = "Joe Johnston"
+CREATE (p)-[r:DIRECTED]->(m)
+
+MATCH (m:Movie),(p:Person)
+WHERE m.title = "Captain America: The First Avenger" AND p.name = "Christopher Markus"
+CREATE (p)-[r:WROTE]->(m)
+
+MATCH (m:Movie),(p:Person)
+WHERE m.title = "Captain America: The First Avenger" AND p.name = "Stephen McFeely"
+CREATE (p)-[r:WROTE]->(m)
+
+MATCH (m:Movie {title: "Captain America: The First Avenger"}) RETURN m
