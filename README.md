@@ -98,3 +98,43 @@ Skorzystaj z bazy z poprzednich ćwiczeń. Przy pomocy operacji map-reduce i fra
    http://www.imdb.com/title/tt0458339/) + zapytanie pokazujące dodany do bazy
    film wraz odtwórcami głównych ról, scenarzystą i reżyserem. Plik SVG ma
    pokazywać wynik ostatniego zapytania.
+
+## NBD Ćwiczenia 6 - Neo4J
+
+Ćwiczenie należy oddać w formie pliku tekstowego zawierającego ponumerowane zapytania (zgodnie z numeracją zapytań w tekście ćwiczenia) oraz zestawu plików z wynikami w postaci graficznej i tekstowej (np. SVG i JSON – niestety dostępne opcje eksportu regularnie ulegają zmianie) o nazwach wynikX.svg i wynikX.json, gdzie X to numer zapytania (pliki graficzny i tekstowy należy wyeksportować z pomocą webowego interfejsu bazy, rozszerzenia zależą od wybranych formatów)
+
+**Część 1 – Wycieczki górskie**
+
+Zaimportuj dane uruchamiając skrypt task2.cypher. Napisz następujące zapytania:
+
+1. Znajdź trasy którymi można dostać się z Darjeeling na Sandakphu, mające najmniejszą ilość etapów
+2. Znajdź mające najmniej etapów trasy którymi można dostać się z Darjeeling na Sandakphu i które mogą być wykorzystywane zimą
+3. Uszereguj trasy którymi można dostać się z Darjeeling na Sandakphu według dystansu Znajdź wszystkie miejsca do których można dotrzeć przy pomocy roweru (twowheeler) z Darjeeling latem
+
+**Część 2 – Połączenia lotnicze**
+
+Zaimportuj dane uruchamiając skrypt task3.cypher. Napisz następujące zapytania:
+
+4. Uszereguj porty lotnicze według ilości rozpoczynających się w nich lotów
+5. Znajdź wszystkie porty lotnicze, do których da się dolecieć (bezpośrednio lub z przesiadkami) z Los Angeles (LAX) wydając mniej niż 3000
+6. Uszereguj połączenia, którymi można dotrzeć z Los Angeles (LAX) do Dayton (DAY) według ceny biletów
+7. Znajdź najtańsze połączenie z Los Angeles (LAX) do Dayton (DAY)
+8. Znajdź najtańsze połączenie z Los Angeles (LAX) do Dayton (DAY) w klasie biznes
+9. Uszereguj linie lotnicze według ilości miast, pomiędzy którymi oferują połączenia (unikalnych miast biorących udział w relacjach :ORIGIN i :DESTINATION węzłów typu Flight obsługiwanych przez daną linię)
+10. Znajdź najtańszą trasę łączącą 3 różne porty lotnicze
+
+## NBD Ćwiczenia 7 - Riak
+
+Na maszynie wirtualnej Riak uruchamia się automatycznie (pojedyncza instancja), dostępny jest na porcie 8098
+Jako rozwiązanie należy wysłać jeden plik tekstowy zawierający ponumerowane polecenia curl i dodatkowo do każdego z zadań tekstowy plik wynikowy zawierający odpowiedź z serwera (wraz z nagłówkami, więc należy w curl użyć switcha -i)
+
+1. Umieść w bazie (nazwa bucketa ma być Twoim numerem indeksu poprzedzonym literą „s”) 5 wartości, gdzie każda z nich ma być dokumentem json mającym 4 pola co najmniej dwóch różnych typów.
+2. Pobierz z bazy jedną z dodanych przez Ciebie wartości.
+3. Zmodyfikuj jedną z wartości – dodając dodatkowe pole do dokumentu.
+4. Zmodyfikuj jedną z wartości – usuwając jedną pole z wybranego dokumentu.
+5. Zmodyfikuj jedną z wartości – zmieniając wartość jednego z pól.
+6. Usuń jeden z dokumentów z bazy.
+7. Spróbuj pobrać z bazy wartość, która nie istnieje w tej bazie.
+8. Dodaj do bazy 1 dokument json (zawierający 1 pole), ale nie specyfikuj klucza.
+9. Pobierz z bazy element z zadania 8.
+10. Usuń z bazy element z zadania 8.

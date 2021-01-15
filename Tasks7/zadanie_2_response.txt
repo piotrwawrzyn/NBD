@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fsakpzMzMBwOzGBKZMxjZfATK7vJlwUA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.8 (that head fake, tho)
+Link: </buckets/s15407>; rel="up"
+Last-Modified: Fri, 15 Jan 2021 13:36:14 GMT
+ETag: "5Ixe56NHUk6nwlDIX1eeYZ"
+Date: Fri, 15 Jan 2021 13:40:24 GMT
+Content-Type: application/json
+Content-Length: 70
+
+{"name": "Peter", "nickname": "lelele", "age": 22, "isMarried": false}labnbd@lab
