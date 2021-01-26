@@ -138,3 +138,9 @@ Jako rozwiązanie należy wysłać jeden plik tekstowy zawierający ponumerowane
 8. Dodaj do bazy 1 dokument json (zawierający 1 pole), ale nie specyfikuj klucza.
 9. Pobierz z bazy element z zadania 8.
 10. Usuń z bazy element z zadania 8.
+
+## NBD Ćwiczenia 7 - Riak c. d.
+
+Na maszynie wirtualnej Riak uruchamia się automatycznie (pojedyncza instancja), dostępny jest na porcie 8098. Jako rozwiązanie należy przesłać kod źródłowy programu a także plik komunikaty.txt z przykładowymi wynikami działania programu.
+
+Napisz program, który wrzuci do bazy dokument, pobierze go i wypisze, zmodyfikuje go, następnie pobierze i wypisze, a na końcu usunie go i spróbuje pobrać z bazy.
