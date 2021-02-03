@@ -144,3 +144,16 @@ Jako rozwiązanie należy wysłać jeden plik tekstowy zawierający ponumerowane
 Na maszynie wirtualnej Riak uruchamia się automatycznie (pojedyncza instancja), dostępny jest na porcie 8098. Jako rozwiązanie należy przesłać kod źródłowy programu a także plik komunikaty.txt z przykładowymi wynikami działania programu.
 
 Napisz program, który wrzuci do bazy dokument, pobierze go i wypisze, zmodyfikuje go, następnie pobierze i wypisze, a na końcu usunie go i spróbuje pobrać z bazy.
+
+## NBD Ćwiczenia 9 - Scala typy i funkcje parametryzowane
+
+1. Zaimplementuj klasę Container parametryzowaną typem A. Konstruktor klasy powinien przyjmować pojedynczą prywatną wartość wskazanego typu. Klasa powinna implementować następujące metody:
+   - getContent zwracającą przechowywaną wartość
+   - applyFunction przyjmującą funkcję typu A=>R i zwracającą wynik działania funkcji na zawartości kontenera
+2. Zaimplementuj trait Maybe parametryzowany typem A i dwie dziedziczące z niego klasy – klasę No rozszerzającą Maybe[Nothing] i klasę Yes parametryzowaną typem A i przechowującą pojedynczy obiekt wskazanego typu. Stwórz obiekty obu klas. Sprawdź, czy oba są podtypem Maybe[_] (do sprawdzenia tego służy metoda isInstanceOf parametryzowana sprawdzanym typem)
+3. Rozszerz rozwiązanie zadania 3 o funkcję applyFunction typu A=>R i zwracającą:
+   - dla No: No
+   - dla Yes: Yes(f(zawartość yes))
+4. rozszerz rozwiązanie zadania 3 o funkcję getOrElse parametryzowaną typem i zwracającą:
+   - Dla No – parametr getOrElse
+   - Dla Yes – zawartość Yes
