@@ -147,13 +147,18 @@ Napisz program, który wrzuci do bazy dokument, pobierze go i wypisze, zmodyfiku
 
 ## NBD Ćwiczenia 9 - Scala typy i funkcje parametryzowane
 
-1. Zaimplementuj klasę Container parametryzowaną typem A. Konstruktor klasy powinien przyjmować pojedynczą prywatną wartość wskazanego typu. Klasa powinna implementować następujące metody:
-   - getContent zwracającą przechowywaną wartość
-   - applyFunction przyjmującą funkcję typu A=>R i zwracającą wynik działania funkcji na zawartości kontenera
-2. Zaimplementuj trait Maybe parametryzowany typem A i dwie dziedziczące z niego klasy – klasę No rozszerzającą Maybe[Nothing] i klasę Yes parametryzowaną typem A i przechowującą pojedynczy obiekt wskazanego typu. Stwórz obiekty obu klas. Sprawdź, czy oba są podtypem Maybe[_] (do sprawdzenia tego służy metoda isInstanceOf parametryzowana sprawdzanym typem)
+1. Zaimplementuj klasę `Container` parametryzowaną typem `A`. Konstruktor klasy powinien przyjmować pojedynczą prywatną wartość wskazanego typu. Klasa powinna implementować następujące metody:
+   - `getContent` zwracającą przechowywaną wartość
+   - `applyFunction` przyjmującą funkcję typu `A=>R` i zwracającą wynik działania funkcji na zawartości kontenera
+2. Zaimplementuj trait Maybe parametryzowany typem `A i dwie dziedziczące z niego klasy – klasę No rozszerzającą Maybe[Nothing] i klasę Yes parametryzowaną typem A i przechowującą pojedynczy obiekt wskazanego typu. Stwórz obiekty obu klas. Sprawdź, czy oba są podtypem Maybe[_] (do sprawdzenia tego służy metoda isInstanceOf parametryzowana sprawdzanym typem)
 3. Rozszerz rozwiązanie zadania 3 o funkcję applyFunction typu A=>R i zwracającą:
    - dla No: No
    - dla Yes: Yes(f(zawartość yes))
 4. rozszerz rozwiązanie zadania 3 o funkcję getOrElse parametryzowaną typem i zwracającą:
    - Dla No – parametr getOrElse
    - Dla Yes – zawartość Yes
+
+## NBD Ćwiczenia 10 - Scala c.d.
+
+1. Zaimplementuj przy użyciu for generator kolejnych par (a,b) takich, że a jest liczbą całkowitą a b jest jej dzielnikiem. Zadbaj o to, by generator był leniwie ewaluowany. Przy użyciu metod take i next wypisz w kilku kolejnych wywołaniach 20 pierwszych elementów ciągu.
+2. Zmodyfikuj klasę Maybe z ćwiczenia 9 tak, by implementowała metody map i flatMap. Zaprezentuj ich działanie.
